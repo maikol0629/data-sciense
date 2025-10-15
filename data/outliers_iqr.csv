@@ -1,0 +1,11 @@
+Attendance,AvgAttendanceByYear,AvgAttendanceByStage,Year,Stage,City,Stadium,Home Team Name,Away Team Name,Home Team Goals,Away Team Goals,Half-time Home Goals,Half-time Away Goals,Total_Goals,outlier_dbscan,outlier_iqr
+142429.0,47511.181818181816,41664.06451612903,1950,Group 1,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Brazil,Yugoslavia,2.0,0.0,1.0,0.0,2.0,False,True
+138886.0,47511.181818181816,65658.58333333333,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Brazil,Sweden,7.0,1.0,3.0,0.0,8.0,True,True
+152772.0,47511.181818181816,65658.58333333333,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Brazil,Spain,6.0,1.0,3.0,0.0,7.0,True,True
+173850.0,47511.181818181816,65658.58333333333,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Uruguay,Brazil,2.0,1.0,0.0,0.0,3.0,True,True
+110000.0,46039.057692307695,51367.86666666667,1986,Group B,Mexico City ,Estadio Azteca,Belgium,Mexico,1.0,2.0,1.0,2.0,3.0,True,True
+114600.0,46039.057692307695,51367.86666666667,1986,Group B,Mexico City ,Estadio Azteca,Mexico,Paraguay,1.0,1.0,1.0,0.0,2.0,False,True
+114580.0,46039.057692307695,52346.84285714286,1986,Round of 16,Mexico City ,Estadio Azteca,Mexico,Bulgaria,2.0,0.0,1.0,0.0,2.0,False,True
+114580.0,46039.057692307695,45697.48484848485,1986,Quarter-finals,Mexico City ,Estadio Azteca,Argentina,England,2.0,1.0,0.0,0.0,3.0,False,True
+114500.0,46039.057692307695,59053.333333333336,1986,Semi-finals,Mexico City ,Estadio Azteca,Argentina,Belgium,2.0,0.0,0.0,0.0,2.0,False,True
+114600.0,46039.057692307695,76383.65,1986,Final,Mexico City ,Estadio Azteca,Argentina,Germany FR,3.0,2.0,1.0,0.0,5.0,False,True

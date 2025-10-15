@@ -1,0 +1,851 @@
+Attendance,AvgAttendanceByYear,AvgAttendanceByStage,Year,Stage,City,Stadium,Home Team Name,Away Team Name,Home Team Goals,Away Team Goals,Half-time Home Goals,Half-time Away Goals
+4444.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Pocitos,France,Mexico,4.0,1.0,3.0,0.0
+18346.0,32808.27777777778,25915.745454545453,1930,Group 4,Montevideo ,Parque Central,USA,Belgium,3.0,0.0,2.0,0.0
+24059.0,32808.27777777778,34241.76271186441,1930,Group 2,Montevideo ,Parque Central,Yugoslavia,Brazil,2.0,1.0,2.0,0.0
+2549.0,32808.27777777778,34271.41071428572,1930,Group 3,Montevideo ,Pocitos,Romania,Peru,3.0,1.0,1.0,0.0
+23409.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Parque Central,Argentina,France,1.0,0.0,0.0,0.0
+9249.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Parque Central,Chile,Mexico,3.0,0.0,1.0,0.0
+18306.0,32808.27777777778,34241.76271186441,1930,Group 2,Montevideo ,Parque Central,Yugoslavia,Bolivia,4.0,0.0,0.0,0.0
+18306.0,32808.27777777778,25915.745454545453,1930,Group 4,Montevideo ,Parque Central,USA,Paraguay,3.0,0.0,2.0,0.0
+57735.0,32808.27777777778,34271.41071428572,1930,Group 3,Montevideo ,Estadio Centenario,Uruguay,Peru,1.0,0.0,0.0,0.0
+2000.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Estadio Centenario,Chile,France,1.0,0.0,0.0,0.0
+42100.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Estadio Centenario,Argentina,Mexico,6.0,3.0,3.0,1.0
+25466.0,32808.27777777778,34241.76271186441,1930,Group 2,Montevideo ,Estadio Centenario,Brazil,Bolivia,4.0,0.0,1.0,0.0
+12000.0,32808.27777777778,25915.745454545453,1930,Group 4,Montevideo ,Estadio Centenario,Paraguay,Belgium,1.0,0.0,1.0,0.0
+70022.0,32808.27777777778,34271.41071428572,1930,Group 3,Montevideo ,Estadio Centenario,Uruguay,Romania,4.0,0.0,4.0,0.0
+41459.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Estadio Centenario,Argentina,Chile,3.0,1.0,2.0,1.0
+72886.0,32808.27777777778,59053.333333333336,1930,Semi-finals,Montevideo ,Estadio Centenario,Argentina,USA,6.0,1.0,1.0,0.0
+79867.0,32808.27777777778,59053.333333333336,1930,Semi-finals,Montevideo ,Estadio Centenario,Uruguay,Yugoslavia,6.0,1.0,3.0,1.0
+68346.0,32808.27777777778,76383.65,1930,Final,Montevideo ,Estadio Centenario,Uruguay,Argentina,4.0,2.0,1.0,2.0
+16000.0,21352.941176470587,16875.0,1934,Preliminary round,Turin ,Stadio Benito Mussolini,Austria,France,3.0,2.0,0.0,0.0
+9000.0,21352.941176470587,16875.0,1934,Preliminary round,Naples ,Giorgio Ascarelli,Hungary,Egypt,4.0,2.0,2.0,2.0
+33000.0,21352.941176470587,16875.0,1934,Preliminary round,Milan ,San Siro,Switzerland,Netherlands,3.0,2.0,2.0,1.0
+14000.0,21352.941176470587,16875.0,1934,Preliminary round,Bologna ,Littorale,Sweden,Argentina,3.0,2.0,1.0,1.0
+8000.0,21352.941176470587,16875.0,1934,Preliminary round,Florence ,Giovanni Berta,Germany,Belgium,5.0,2.0,1.0,2.0
+21000.0,21352.941176470587,16875.0,1934,Preliminary round,Genoa ,Luigi Ferraris,Spain,Brazil,3.0,1.0,3.0,0.0
+25000.0,21352.941176470587,16875.0,1934,Preliminary round,Rome ,Nazionale PNF,Italy,USA,7.0,1.0,3.0,0.0
+9000.0,21352.941176470587,16875.0,1934,Preliminary round,Trieste ,Littorio,Czechoslovakia,Romania,2.0,1.0,0.0,1.0
+12000.0,21352.941176470587,45697.48484848485,1934,Quarter-finals,Turin ,Stadio Benito Mussolini,Czechoslovakia,Switzerland,3.0,2.0,1.0,1.0
+3000.0,21352.941176470587,45697.48484848485,1934,Quarter-finals,Milan ,San Siro,Germany,Sweden,2.0,1.0,0.0,0.0
+35000.0,21352.941176470587,45697.48484848485,1934,Quarter-finals,Florence ,Giovanni Berta,Italy,Spain,1.0,1.0,0.0,0.0
+23000.0,21352.941176470587,45697.48484848485,1934,Quarter-finals,Bologna ,Littorale,Austria,Hungary,2.0,1.0,1.0,0.0
+43000.0,21352.941176470587,45697.48484848485,1934,Quarter-finals,Florence ,Giovanni Berta,Italy,Spain,1.0,0.0,1.0,0.0
+35000.0,21352.941176470587,59053.333333333336,1934,Semi-finals,Milan ,San Siro,Italy,Austria,1.0,0.0,1.0,0.0
+15000.0,21352.941176470587,59053.333333333336,1934,Semi-finals,Rome ,Nazionale PNF,Czechoslovakia,Germany,3.0,1.0,1.0,0.0
+7000.0,21352.941176470587,50847.86666666667,1934,Match for third place,Naples ,Giorgio Ascarelli,Germany,Austria,3.0,2.0,3.0,1.0
+55000.0,21352.941176470587,76383.65,1934,Final,Rome ,Nazionale PNF,Italy,Czechoslovakia,2.0,1.0,0.0,0.0
+27152.0,20872.222222222223,16120.333333333334,1938,First round,Paris ,Parc des Princes,Switzerland,Germany,1.0,1.0,0.0,0.0
+9000.0,20872.222222222223,16120.333333333334,1938,First round,Reims ,Velodrome Municipale,Hungary,Dutch East Indies,6.0,0.0,4.0,0.0
+30454.0,20872.222222222223,16120.333333333334,1938,First round,Colombes ,Stade Olympique,France,Belgium,3.0,1.0,2.0,1.0
+7000.0,20872.222222222223,16120.333333333334,1938,First round,Toulouse ,Stade Municipal,Cuba,Romania,3.0,3.0,0.0,0.0
+19000.0,20872.222222222223,16120.333333333334,1938,First round,Marseilles ,Stade V�lodrome,Italy,Norway,2.0,1.0,0.0,0.0
+13452.0,20872.222222222223,16120.333333333334,1938,First round,Strasbourg ,Stade de la Meinau,Brazil,Poland,6.0,5.0,0.0,0.0
+11000.0,20872.222222222223,16120.333333333334,1938,First round,Le Havre ,Cavee Verte,Czechoslovakia,Netherlands,3.0,0.0,0.0,0.0
+8000.0,20872.222222222223,16120.333333333334,1938,First round,Toulouse ,Stade Municipal,Cuba,Romania,2.0,1.0,0.0,1.0
+20025.0,20872.222222222223,16120.333333333334,1938,First round,Paris ,Parc des Princes,Switzerland,Germany,4.0,2.0,1.0,2.0
+22021.0,20872.222222222223,45697.48484848485,1938,Quarter-finals,Bordeaux ,Stade du Parc Lescure,Brazil,Czechoslovakia,1.0,1.0,0.0,0.0
+15000.0,20872.222222222223,45697.48484848485,1938,Quarter-finals,Lille ,Victor Boucquey,Hungary,Switzerland,2.0,0.0,1.0,0.0
+7000.0,20872.222222222223,45697.48484848485,1938,Quarter-finals,Antibes ,Fort Carree,Sweden,Cuba,8.0,0.0,4.0,0.0
+58455.0,20872.222222222223,45697.48484848485,1938,Quarter-finals,Colombes ,Stade Olympique,Italy,France,3.0,1.0,1.0,1.0
+18141.0,20872.222222222223,45697.48484848485,1938,Quarter-finals,Bordeaux ,Stade du Parc Lescure,Brazil,Czechoslovakia,2.0,1.0,0.0,1.0
+20000.0,20872.222222222223,59053.333333333336,1938,Semi-finals,Paris ,Parc des Princes,Hungary,Sweden,5.0,1.0,3.0,1.0
+33000.0,20872.222222222223,59053.333333333336,1938,Semi-finals,Marseilles ,Stade V�lodrome,Italy,Brazil,2.0,1.0,0.0,0.0
+12000.0,20872.222222222223,50847.86666666667,1938,Match for third place,Bordeaux ,Stade du Parc Lescure,Brazil,Sweden,4.0,2.0,1.0,2.0
+45000.0,20872.222222222223,76383.65,1938,Final,Colombes ,Stade Olympique,Italy,Hungary,4.0,2.0,3.0,1.0
+81649.0,47511.181818181816,41664.06451612903,1950,Group 1,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Brazil,Mexico,4.0,0.0,1.0,0.0
+29703.0,47511.181818181816,34241.76271186441,1950,Group 2,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,England,Chile,2.0,0.0,1.0,0.0
+9511.0,47511.181818181816,34241.76271186441,1950,Group 2,Curitiba ,Durival de Brito,Spain,USA,3.0,1.0,0.0,1.0
+36502.0,47511.181818181816,34271.41071428572,1950,Group 3,Sao Paulo ,Pacaembu,Sweden,Italy,3.0,2.0,2.0,1.0
+7336.0,47511.181818181816,41664.06451612903,1950,Group 1,Belo Horizonte ,Independencia,Yugoslavia,Switzerland,3.0,0.0,0.0,0.0
+42032.0,47511.181818181816,41664.06451612903,1950,Group 1,Sao Paulo ,Pacaembu,Brazil,Switzerland,2.0,2.0,2.0,1.0
+11078.0,47511.181818181816,41664.06451612903,1950,Group 1,Porto Alegre ,Eucaliptos,Yugoslavia,Mexico,4.0,1.0,2.0,0.0
+19790.0,47511.181818181816,34241.76271186441,1950,Group 2,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Spain,Chile,2.0,0.0,2.0,0.0
+7903.0,47511.181818181816,34271.41071428572,1950,Group 3,Curitiba ,Durival de Brito,Sweden,Paraguay,2.0,2.0,2.0,1.0
+10151.0,47511.181818181816,34241.76271186441,1950,Group 2,Belo Horizonte ,Independencia,USA,England,1.0,0.0,1.0,0.0
+142429.0,47511.181818181816,41664.06451612903,1950,Group 1,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Brazil,Yugoslavia,2.0,0.0,1.0,0.0
+74462.0,47511.181818181816,34241.76271186441,1950,Group 2,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Spain,England,1.0,0.0,0.0,0.0
+25811.0,47511.181818181816,34271.41071428572,1950,Group 3,Sao Paulo ,Pacaembu,Italy,Paraguay,2.0,0.0,1.0,0.0
+5284.0,47511.181818181816,25915.745454545453,1950,Group 4,Belo Horizonte ,Independencia,Uruguay,Bolivia,8.0,0.0,4.0,0.0
+3580.0,47511.181818181816,41664.06451612903,1950,Group 1,Porto Alegre ,Eucaliptos,Switzerland,Mexico,2.0,1.0,2.0,0.0
+8501.0,47511.181818181816,34241.76271186441,1950,Group 2,Recife ,Ilha do Retiro,Chile,USA,5.0,2.0,2.0,0.0
+44802.0,47511.181818181816,65658.58333333333,1950,Group 6,Sao Paulo ,Pacaembu,Uruguay,Spain,2.0,2.0,1.0,2.0
+138886.0,47511.181818181816,65658.58333333333,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Brazil,Sweden,7.0,1.0,3.0,0.0
+152772.0,47511.181818181816,65658.58333333333,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Brazil,Spain,6.0,1.0,3.0,0.0
+7987.0,47511.181818181816,65658.58333333333,1950,Group 6,Sao Paulo ,Pacaembu,Uruguay,Sweden,3.0,2.0,1.0,2.0
+11227.0,47511.181818181816,65658.58333333333,1950,Group 6,Sao Paulo ,Pacaembu,Sweden,Spain,3.0,1.0,2.0,0.0
+173850.0,47511.181818181816,65658.58333333333,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,Uruguay,Brazil,2.0,1.0,0.0,0.0
+20500.0,29561.80769230769,34271.41071428572,1954,Group 3,Berne ,Wankdorf Stadium,Uruguay,Czechoslovakia,2.0,0.0,0.0,0.0
+25000.0,29561.80769230769,34271.41071428572,1954,Group 3,Zurich ,Hardturm,Austria,Scotland,1.0,0.0,1.0,0.0
+13470.0,29561.80769230769,41664.06451612903,1954,Group 1,Geneva ,Charmilles,Brazil,Mexico,5.0,0.0,4.0,0.0
+16000.0,29561.80769230769,41664.06451612903,1954,Group 1,Lausanne ,La Pontaise,Yugoslavia,France,1.0,0.0,1.0,0.0
+28000.0,29561.80769230769,34241.76271186441,1954,Group 2,Berne ,Wankdorf Stadium,Germany FR,Turkey,4.0,1.0,1.0,1.0
+13000.0,29561.80769230769,34241.76271186441,1954,Group 2,Zurich ,Hardturm,Hungary,Korea Republic,9.0,0.0,4.0,0.0
+14000.0,29561.80769230769,25915.745454545453,1954,Group 4,Basel ,St. Jakob,England,Belgium,4.0,4.0,0.0,0.0
+43000.0,29561.80769230769,25915.745454545453,1954,Group 4,Lausanne ,La Pontaise,Switzerland,Italy,2.0,1.0,1.0,1.0
+34000.0,29561.80769230769,34271.41071428572,1954,Group 3,Basel ,St. Jakob,Uruguay,Scotland,7.0,0.0,2.0,0.0
+26000.0,29561.80769230769,34271.41071428572,1954,Group 3,Zurich ,Hardturm,Austria,Czechoslovakia,5.0,0.0,4.0,0.0
+19000.0,29561.80769230769,41664.06451612903,1954,Group 1,Geneva ,Charmilles,France,Mexico,3.0,2.0,1.0,0.0
+24637.0,29561.80769230769,41664.06451612903,1954,Group 1,Lausanne ,La Pontaise,Brazil,Yugoslavia,1.0,1.0,0.0,0.0
+56000.0,29561.80769230769,34241.76271186441,1954,Group 2,Basel ,St. Jakob,Hungary,Germany FR,8.0,3.0,3.0,1.0
+4000.0,29561.80769230769,34241.76271186441,1954,Group 2,Geneva ,Charmilles,Turkey,Korea Republic,7.0,0.0,4.0,0.0
+43500.0,29561.80769230769,25915.745454545453,1954,Group 4,Berne ,Wankdorf Stadium,England,Switzerland,2.0,0.0,1.0,0.0
+24000.0,29561.80769230769,25915.745454545453,1954,Group 4,Lugano ,Comunale di Cornaredo,Italy,Belgium,4.0,1.0,1.0,0.0
+17000.0,29561.80769230769,34241.76271186441,1954,Group 2,Zurich ,Hardturm,Germany FR,Turkey,7.0,2.0,3.0,1.0
+30000.0,29561.80769230769,25915.745454545453,1954,Group 4,Basel ,St. Jakob,Switzerland,Italy,4.0,1.0,1.0,0.0
+28000.0,29561.80769230769,45697.48484848485,1954,Quarter-finals,Basel ,St. Jakob,Uruguay,England,4.0,2.0,2.0,1.0
+35000.0,29561.80769230769,45697.48484848485,1954,Quarter-finals,Lausanne ,La Pontaise,Austria,Switzerland,7.0,5.0,5.0,4.0
+17000.0,29561.80769230769,45697.48484848485,1954,Quarter-finals,Geneva ,Charmilles,Germany FR,Yugoslavia,2.0,0.0,1.0,0.0
+40000.0,29561.80769230769,45697.48484848485,1954,Quarter-finals,Berne ,Wankdorf Stadium,Hungary,Brazil,4.0,2.0,2.0,1.0
+58000.0,29561.80769230769,59053.333333333336,1954,Semi-finals,Basel ,St. Jakob,Germany FR,Austria,6.0,1.0,1.0,0.0
+45000.0,29561.80769230769,59053.333333333336,1954,Semi-finals,Lausanne ,La Pontaise,Hungary,Uruguay,4.0,2.0,0.0,0.0
+32000.0,29561.80769230769,50847.86666666667,1954,Match for third place,Zurich ,Hardturm,Austria,Uruguay,3.0,1.0,1.0,1.0
+62500.0,29561.80769230769,76383.65,1954,Final,Berne ,Wankdorf Stadium,Germany FR,Hungary,3.0,2.0,2.0,2.0
+34107.0,23423.14285714286,34271.41071428572,1958,Group 3,Solna ,Rasunda Stadium,Sweden,Mexico,3.0,0.0,1.0,0.0
+49348.0,23423.14285714286,25915.745454545453,1958,Group 4,Gothenburg ,Nya Ullevi,Soviet Union,England,2.0,2.0,1.0,0.0
+31156.0,23423.14285714286,41664.06451612903,1958,Group 1,Malm� ,Malmo Stadion,Argentina,Germany FR,1.0,3.0,1.0,2.0
+15343.0,23423.14285714286,34271.41071428572,1958,Group 3,Sandviken ,Jarnvallen,Hungary,Wales,1.0,1.0,1.0,1.0
+16518.0,23423.14285714286,34241.76271186441,1958,Group 2,Norrk�Ping ,Idrottsparken,France,Paraguay,7.0,3.0,2.0,2.0
+9591.0,23423.14285714286,34241.76271186441,1958,Group 2,Vasteras ,Arosvallen,Yugoslavia,Scotland,1.0,1.0,1.0,0.0
+17788.0,23423.14285714286,25915.745454545453,1958,Group 4,Udevalla ,Rimnersvallen,Brazil,Austria,3.0,0.0,1.0,0.0
+10647.0,23423.14285714286,41664.06451612903,1958,Group 1,Halmstad ,Orjans Vall,Northern Ireland,Czechoslovakia,1.0,0.0,1.0,0.0
+40895.0,23423.14285714286,25915.745454545453,1958,Group 4,Gothenburg ,Nya Ullevi,Brazil,England,0.0,0.0,0.0,0.0
+15150.0,23423.14285714286,34271.41071428572,1958,Group 3,Solna ,Rasunda Stadium,Mexico,Wales,1.0,1.0,0.0,1.0
+11665.0,23423.14285714286,34241.76271186441,1958,Group 2,Norrk�Ping ,Idrottsparken,Paraguay,Scotland,3.0,2.0,2.0,1.0
+12217.0,23423.14285714286,34241.76271186441,1958,Group 2,Vasteras ,Arosvallen,Yugoslavia,France,3.0,2.0,1.0,1.0
+21239.0,23423.14285714286,25915.745454545453,1958,Group 4,Boras ,Ryavallen,Soviet Union,Austria,2.0,0.0,1.0,0.0
+25000.0,23423.14285714286,41664.06451612903,1958,Group 1,Helsingborg ,Olympia Stadium,Germany FR,Czechoslovakia,2.0,2.0,0.0,2.0
+14174.0,23423.14285714286,41664.06451612903,1958,Group 1,Halmstad ,Orjans Vall,Argentina,Northern Ireland,3.0,1.0,1.0,1.0
+38850.0,23423.14285714286,34271.41071428572,1958,Group 3,Solna ,Rasunda Stadium,Sweden,Hungary,2.0,1.0,1.0,0.0
+30287.0,23423.14285714286,34271.41071428572,1958,Group 3,Solna ,Rasunda Stadium,Sweden,Wales,0.0,0.0,0.0,0.0
+50928.0,23423.14285714286,25915.745454545453,1958,Group 4,Gothenburg ,Nya Ullevi,Brazil,Soviet Union,2.0,0.0,1.0,0.0
+21990.0,23423.14285714286,41664.06451612903,1958,Group 1,Malm� ,Malmo Stadion,Germany FR,Northern Ireland,2.0,2.0,1.0,1.0
+13300.0,23423.14285714286,34271.41071428572,1958,Group 3,Sandviken ,Jarnvallen,Hungary,Mexico,4.0,0.0,1.0,0.0
+13103.0,23423.14285714286,34241.76271186441,1958,Group 2,Eskilstuna ,Tunavallen,Paraguay,Yugoslavia,3.0,3.0,1.0,2.0
+13554.0,23423.14285714286,34241.76271186441,1958,Group 2,Orebro ,Eyravallen,France,Scotland,2.0,1.0,2.0,0.0
+15872.0,23423.14285714286,25915.745454545453,1958,Group 4,Boras ,Ryavallen,England,Austria,2.0,2.0,0.0,1.0
+16418.0,23423.14285714286,41664.06451612903,1958,Group 1,Helsingborg ,Olympia Stadium,Czechoslovakia,Argentina,6.0,1.0,3.0,0.0
+23182.0,23423.14285714286,25915.745454545453,1958,Group 4,Gothenburg ,Nya Ullevi,Soviet Union,England,1.0,0.0,0.0,0.0
+6196.0,23423.14285714286,41664.06451612903,1958,Group 1,Malm� ,Malmo Stadion,Northern Ireland,Czechoslovakia,2.0,1.0,0.0,0.0
+2823.0,23423.14285714286,34271.41071428572,1958,Group 3,Solna ,Rasunda Stadium,Wales,Hungary,2.0,1.0,0.0,1.0
+25923.0,23423.14285714286,45697.48484848485,1958,Quarter-finals,Gothenburg ,Nya Ullevi,Brazil,Wales,1.0,0.0,0.0,0.0
+20055.0,23423.14285714286,45697.48484848485,1958,Quarter-finals,Malm� ,Malmo Stadion,Germany FR,Yugoslavia,1.0,0.0,1.0,0.0
+31900.0,23423.14285714286,45697.48484848485,1958,Quarter-finals,Solna ,Rasunda Stadium,Sweden,Soviet Union,2.0,0.0,0.0,0.0
+11800.0,23423.14285714286,45697.48484848485,1958,Quarter-finals,Norrk�Ping ,Idrottsparken,France,Northern Ireland,4.0,0.0,1.0,0.0
+49471.0,23423.14285714286,59053.333333333336,1958,Semi-finals,Gothenburg ,Nya Ullevi,Sweden,Germany FR,3.0,1.0,1.0,1.0
+27100.0,23423.14285714286,59053.333333333336,1958,Semi-finals,Solna ,Rasunda Stadium,Brazil,France,5.0,2.0,2.0,1.0
+32483.0,23423.14285714286,50847.86666666667,1958,Match for third place,Gothenburg ,Nya Ullevi,France,Germany FR,6.0,3.0,3.0,1.0
+49737.0,23423.14285714286,76383.65,1958,Final,Solna ,Rasunda Stadium,Brazil,Sweden,5.0,2.0,2.0,1.0
+7908.0,27911.625,41664.06451612903,1962,Group 1,Arica ,Carlos Dittborn,Uruguay,Colombia,2.0,1.0,0.0,1.0
+10484.0,27911.625,34271.41071428572,1962,Group 3,Vina Del Mar ,Estadio Sausalito,Brazil,Mexico,2.0,0.0,0.0,0.0
+7134.0,27911.625,25915.745454545453,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,Argentina,Bulgaria,1.0,0.0,1.0,0.0
+65006.0,27911.625,34241.76271186441,1962,Group 2,Santiago De Chile ,Nacional,Chile,Switzerland,3.0,1.0,1.0,1.0
+9622.0,27911.625,41664.06451612903,1962,Group 1,Arica ,Carlos Dittborn,Soviet Union,Yugoslavia,2.0,0.0,0.0,0.0
+12700.0,27911.625,34271.41071428572,1962,Group 3,Vina Del Mar ,Estadio Sausalito,Czechoslovakia,Spain,1.0,0.0,0.0,0.0
+7938.0,27911.625,25915.745454545453,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,Hungary,England,2.0,1.0,1.0,0.0
+65440.0,27911.625,34241.76271186441,1962,Group 2,Santiago De Chile ,Nacional,Germany FR,Italy,0.0,0.0,0.0,0.0
+8829.0,27911.625,41664.06451612903,1962,Group 1,Arica ,Carlos Dittborn,Yugoslavia,Uruguay,3.0,1.0,2.0,1.0
+14903.0,27911.625,34271.41071428572,1962,Group 3,Vina Del Mar ,Estadio Sausalito,Brazil,Czechoslovakia,0.0,0.0,0.0,0.0
+9794.0,27911.625,25915.745454545453,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,England,Argentina,3.0,1.0,2.0,0.0
+66057.0,27911.625,34241.76271186441,1962,Group 2,Santiago De Chile ,Nacional,Chile,Italy,2.0,0.0,0.0,0.0
+8040.0,27911.625,41664.06451612903,1962,Group 1,Arica ,Carlos Dittborn,Soviet Union,Colombia,4.0,4.0,3.0,1.0
+11875.0,27911.625,34271.41071428572,1962,Group 3,Vina Del Mar ,Estadio Sausalito,Spain,Mexico,1.0,0.0,0.0,0.0
+7442.0,27911.625,25915.745454545453,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,Hungary,Bulgaria,6.0,1.0,4.0,0.0
+64922.0,27911.625,34241.76271186441,1962,Group 2,Santiago De Chile ,Nacional,Germany FR,Switzerland,2.0,1.0,1.0,0.0
+9973.0,27911.625,41664.06451612903,1962,Group 1,Arica ,Carlos Dittborn,Soviet Union,Uruguay,2.0,1.0,1.0,0.0
+18715.0,27911.625,34271.41071428572,1962,Group 3,Vina Del Mar ,Estadio Sausalito,Brazil,Spain,2.0,1.0,0.0,1.0
+7945.0,27911.625,25915.745454545453,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,Hungary,Argentina,0.0,0.0,0.0,0.0
+67224.0,27911.625,34241.76271186441,1962,Group 2,Santiago De Chile ,Nacional,Germany FR,Chile,2.0,0.0,1.0,0.0
+7167.0,27911.625,41664.06451612903,1962,Group 1,Arica ,Carlos Dittborn,Yugoslavia,Colombia,5.0,0.0,2.0,0.0
+10648.0,27911.625,34271.41071428572,1962,Group 3,Vina Del Mar ,Estadio Sausalito,Mexico,Czechoslovakia,3.0,1.0,2.0,1.0
+5700.0,27911.625,25915.745454545453,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,England,Bulgaria,0.0,0.0,0.0,0.0
+59828.0,27911.625,34241.76271186441,1962,Group 2,Santiago De Chile ,Nacional,Italy,Switzerland,3.0,0.0,1.0,0.0
+17268.0,27911.625,45697.48484848485,1962,Quarter-finals,Arica ,Carlos Dittborn,Chile,Soviet Union,2.0,1.0,2.0,1.0
+17736.0,27911.625,45697.48484848485,1962,Quarter-finals,Vina Del Mar ,Estadio Sausalito,Brazil,England,3.0,1.0,1.0,1.0
+11690.0,27911.625,45697.48484848485,1962,Quarter-finals,Rancagua ,Estadio El Teniente-Codelco,Czechoslovakia,Hungary,1.0,0.0,1.0,0.0
+63324.0,27911.625,45697.48484848485,1962,Quarter-finals,Santiago De Chile ,Nacional,Yugoslavia,Germany FR,1.0,0.0,0.0,0.0
+5890.0,27911.625,59053.333333333336,1962,Semi-finals,Vina Del Mar ,Estadio Sausalito,Czechoslovakia,Yugoslavia,3.0,1.0,0.0,0.0
+76594.0,27911.625,59053.333333333336,1962,Semi-finals,Santiago De Chile ,Nacional,Brazil,Chile,4.0,2.0,2.0,1.0
+66697.0,27911.625,50847.86666666667,1962,Match for third place,Santiago De Chile ,Nacional,Chile,Yugoslavia,1.0,0.0,0.0,0.0
+68679.0,27911.625,76383.65,1962,Final,Santiago De Chile ,Nacional,Brazil,Czechoslovakia,3.0,1.0,1.0,1.0
+87148.0,48847.96875,41664.06451612903,1966,Group 1,London ,Wembley Stadium,England,Uruguay,0.0,0.0,0.0,0.0
+36127.0,48847.96875,34241.76271186441,1966,Group 2,Sheffield ,Hillsborough,Germany FR,Switzerland,5.0,0.0,3.0,0.0
+47308.0,48847.96875,34271.41071428572,1966,Group 3,Liverpool ,Goodison Park,Brazil,Bulgaria,2.0,0.0,1.0,0.0
+23006.0,48847.96875,25915.745454545453,1966,Group 4,Middlesbrough ,Ayresome Park,Soviet Union,Korea DPR,3.0,0.0,2.0,0.0
+69237.0,48847.96875,41664.06451612903,1966,Group 1,London ,Wembley Stadium,France,Mexico,1.0,1.0,0.0,0.0
+29886.0,48847.96875,34271.41071428572,1966,Group 3,Manchester ,Old Trafford Stadium,Portugal,Hungary,3.0,1.0,1.0,0.0
+42738.0,48847.96875,34241.76271186441,1966,Group 2,Birmingham ,Villa Park,Argentina,Spain,2.0,1.0,0.0,0.0
+27199.0,48847.96875,25915.745454545453,1966,Group 4,Sunderland ,Roker Park Ground,Italy,Chile,2.0,0.0,1.0,0.0
+45662.0,48847.96875,41664.06451612903,1966,Group 1,London ,White City,Uruguay,France,2.0,1.0,2.0,1.0
+32028.0,48847.96875,34241.76271186441,1966,Group 2,Sheffield ,Hillsborough,Spain,Switzerland,2.0,1.0,0.0,1.0
+51387.0,48847.96875,34271.41071428572,1966,Group 3,Liverpool ,Goodison Park,Hungary,Brazil,3.0,1.0,1.0,1.0
+13792.0,48847.96875,25915.745454545453,1966,Group 4,Middlesbrough ,Ayresome Park,Korea DPR,Chile,1.0,1.0,0.0,1.0
+25438.0,48847.96875,34271.41071428572,1966,Group 3,Manchester ,Old Trafford Stadium,Portugal,Bulgaria,3.0,0.0,2.0,0.0
+46587.0,48847.96875,34241.76271186441,1966,Group 2,Birmingham ,Villa Park,Germany FR,Argentina,0.0,0.0,0.0,0.0
+27793.0,48847.96875,25915.745454545453,1966,Group 4,Sunderland ,Roker Park Ground,Soviet Union,Italy,1.0,0.0,0.0,0.0
+92570.0,48847.96875,41664.06451612903,1966,Group 1,London ,Wembley Stadium,England,Mexico,2.0,0.0,1.0,0.0
+61112.0,48847.96875,41664.06451612903,1966,Group 1,London ,Wembley Stadium,Uruguay,Mexico,0.0,0.0,0.0,0.0
+32127.0,48847.96875,34241.76271186441,1966,Group 2,Sheffield ,Hillsborough,Argentina,Switzerland,2.0,0.0,0.0,0.0
+58479.0,48847.96875,34271.41071428572,1966,Group 3,Liverpool ,Goodison Park,Portugal,Brazil,3.0,1.0,2.0,0.0
+17829.0,48847.96875,25915.745454545453,1966,Group 4,Middlesbrough ,Ayresome Park,Korea DPR,Italy,1.0,0.0,1.0,0.0
+98270.0,48847.96875,41664.06451612903,1966,Group 1,London ,Wembley Stadium,England,France,2.0,0.0,1.0,0.0
+24129.0,48847.96875,34271.41071428572,1966,Group 3,Manchester ,Old Trafford Stadium,Hungary,Bulgaria,3.0,1.0,2.0,1.0
+42187.0,48847.96875,34241.76271186441,1966,Group 2,Birmingham ,Villa Park,Germany FR,Spain,2.0,1.0,1.0,1.0
+16027.0,48847.96875,25915.745454545453,1966,Group 4,Sunderland ,Roker Park Ground,Soviet Union,Chile,2.0,1.0,1.0,1.0
+90584.0,48847.96875,45697.48484848485,1966,Quarter-finals,London ,Wembley Stadium,England,Argentina,1.0,0.0,0.0,0.0
+40007.0,48847.96875,45697.48484848485,1966,Quarter-finals,Sheffield ,Hillsborough,Germany FR,Uruguay,4.0,0.0,1.0,0.0
+26844.0,48847.96875,45697.48484848485,1966,Quarter-finals,Sunderland ,Roker Park Ground,Soviet Union,Hungary,2.0,1.0,1.0,0.0
+40248.0,48847.96875,45697.48484848485,1966,Quarter-finals,Liverpool ,Goodison Park,Portugal,Korea DPR,5.0,3.0,2.0,3.0
+38273.0,48847.96875,59053.333333333336,1966,Semi-finals,Liverpool ,Goodison Park,Germany FR,Soviet Union,2.0,1.0,1.0,0.0
+94493.0,48847.96875,59053.333333333336,1966,Semi-finals,London ,Wembley Stadium,England,Portugal,2.0,1.0,1.0,0.0
+87696.0,48847.96875,50847.86666666667,1966,Match for third place,London ,Wembley Stadium,Portugal,Soviet Union,2.0,1.0,1.0,1.0
+96924.0,48847.96875,76383.65,1966,Final,London ,Wembley Stadium,England,Germany FR,4.0,2.0,0.0,0.0
+107160.0,50124.21875,41664.06451612903,1970,Group 1,Mexico City ,Estadio Azteca,Mexico,Soviet Union,0.0,0.0,0.0,0.0
+20654.0,50124.21875,34241.76271186441,1970,Group 2,Puebla ,Cuauhtemoc,Uruguay,Israel,2.0,0.0,1.0,0.0
+13765.0,50124.21875,25915.745454545453,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,Peru,Bulgaria,3.0,2.0,0.0,1.0
+50560.0,50124.21875,34271.41071428572,1970,Group 3,Guadalajara ,Jalisco,England,Romania,1.0,0.0,0.0,0.0
+13433.0,50124.21875,34241.76271186441,1970,Group 2,Toluca ,Luis Dosal,Italy,Sweden,1.0,0.0,1.0,0.0
+12942.0,50124.21875,25915.745454545453,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,Germany FR,Morocco,2.0,1.0,0.0,1.0
+52897.0,50124.21875,34271.41071428572,1970,Group 3,Guadalajara ,Jalisco,Brazil,Czechoslovakia,4.0,1.0,1.0,1.0
+92205.0,50124.21875,41664.06451612903,1970,Group 1,Mexico City ,Estadio Azteca,Belgium,El Salvador,3.0,0.0,1.0,0.0
+29968.0,50124.21875,34241.76271186441,1970,Group 2,Puebla ,Cuauhtemoc,Uruguay,Italy,0.0,0.0,0.0,0.0
+13537.0,50124.21875,25915.745454545453,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,Peru,Morocco,3.0,0.0,0.0,0.0
+56818.0,50124.21875,34271.41071428572,1970,Group 3,Guadalajara ,Jalisco,Romania,Czechoslovakia,2.0,1.0,0.0,1.0
+95261.0,50124.21875,41664.06451612903,1970,Group 1,Mexico City ,Estadio Azteca,Soviet Union,Belgium,4.0,1.0,1.0,0.0
+9624.0,50124.21875,34241.76271186441,1970,Group 2,Toluca ,Luis Dosal,Sweden,Israel,1.0,1.0,0.0,0.0
+12710.0,50124.21875,25915.745454545453,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,Germany FR,Bulgaria,5.0,2.0,2.0,1.0
+66843.0,50124.21875,34271.41071428572,1970,Group 3,Guadalajara ,Jalisco,Brazil,England,1.0,0.0,0.0,0.0
+103058.0,50124.21875,41664.06451612903,1970,Group 1,Mexico City ,Estadio Azteca,Mexico,El Salvador,4.0,0.0,1.0,0.0
+18163.0,50124.21875,34241.76271186441,1970,Group 2,Puebla ,Cuauhtemoc,Sweden,Uruguay,1.0,0.0,0.0,0.0
+17875.0,50124.21875,25915.745454545453,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,Germany FR,Peru,3.0,1.0,3.0,1.0
+50804.0,50124.21875,34271.41071428572,1970,Group 3,Guadalajara ,Jalisco,Brazil,Romania,3.0,2.0,2.0,1.0
+89979.0,50124.21875,41664.06451612903,1970,Group 1,Mexico City ,Estadio Azteca,Soviet Union,El Salvador,2.0,0.0,0.0,0.0
+9890.0,50124.21875,34241.76271186441,1970,Group 2,Toluca ,Luis Dosal,Italy,Israel,0.0,0.0,0.0,0.0
+12299.0,50124.21875,25915.745454545453,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,Bulgaria,Morocco,1.0,1.0,1.0,0.0
+49292.0,50124.21875,34271.41071428572,1970,Group 3,Guadalajara ,Jalisco,England,Czechoslovakia,1.0,0.0,0.0,0.0
+108192.0,50124.21875,41664.06451612903,1970,Group 1,Mexico City ,Estadio Azteca,Mexico,Belgium,1.0,0.0,1.0,0.0
+26851.0,50124.21875,45697.48484848485,1970,Quarter-finals,Toluca ,Luis Dosal,Italy,Mexico,4.0,1.0,1.0,1.0
+23357.0,50124.21875,45697.48484848485,1970,Quarter-finals,Leon ,Nou Camp - Estadio Le�n,Germany FR,England,3.0,2.0,0.0,0.0
+54233.0,50124.21875,45697.48484848485,1970,Quarter-finals,Guadalajara ,Jalisco,Brazil,Peru,4.0,2.0,2.0,1.0
+26085.0,50124.21875,45697.48484848485,1970,Quarter-finals,Mexico City ,Estadio Azteca,Uruguay,Soviet Union,1.0,0.0,0.0,0.0
+51261.0,50124.21875,59053.333333333336,1970,Semi-finals,Guadalajara ,Jalisco,Brazil,Uruguay,3.0,1.0,1.0,1.0
+102444.0,50124.21875,59053.333333333336,1970,Semi-finals,Mexico City ,Estadio Azteca,Italy,Germany FR,4.0,3.0,0.0,0.0
+104403.0,50124.21875,50847.86666666667,1970,Match for third place,Mexico City ,Estadio Azteca,Germany FR,Uruguay,1.0,0.0,1.0,0.0
+107412.0,50124.21875,76383.65,1970,Final,Mexico City ,Estadio Azteca,Brazil,Italy,4.0,1.0,1.0,1.0
+62000.0,49098.76315789474,34241.76271186441,1974,Group 2,Frankfurt/Main ,Waldstadion,Brazil,Yugoslavia,0.0,0.0,0.0,0.0
+81100.0,49098.76315789474,41664.06451612903,1974,Group 1,Berlin West ,Olympiastadion,Germany FR,Chile,1.0,0.0,1.0,0.0
+17000.0,49098.76315789474,41664.06451612903,1974,Group 1,Hamburg ,Volksparkstadion,German DR,Australia,2.0,0.0,0.0,0.0
+27000.0,49098.76315789474,34241.76271186441,1974,Group 2,Dortmund ,Westfalenstadion,Zaire,Scotland,0.0,2.0,0.0,2.0
+55100.0,49098.76315789474,34271.41071428572,1974,Group 3,Hanover ,Niedersachsenstadion,Uruguay,Netherlands,0.0,2.0,0.0,1.0
+23800.0,49098.76315789474,34271.41071428572,1974,Group 3,D�Sseldorf ,Rheinstadion,Sweden,Bulgaria,0.0,0.0,0.0,0.0
+53000.0,49098.76315789474,25915.745454545453,1974,Group 4,Munich ,Olympiastadion,Italy,Haiti,3.0,1.0,0.0,0.0
+32700.0,49098.76315789474,25915.745454545453,1974,Group 4,Stuttgart ,Neckarstadion,Poland,Argentina,3.0,2.0,2.0,0.0
+53300.0,49098.76315789474,41664.06451612903,1974,Group 1,Hamburg ,Volksparkstadion,Australia,Germany FR,0.0,3.0,0.0,2.0
+62000.0,49098.76315789474,34241.76271186441,1974,Group 2,Frankfurt/Main ,Waldstadion,Scotland,Brazil,0.0,0.0,0.0,0.0
+28300.0,49098.76315789474,41664.06451612903,1974,Group 1,Berlin West ,Olympiastadion,Chile,German DR,1.0,1.0,0.0,0.0
+31700.0,49098.76315789474,34241.76271186441,1974,Group 2,Gelsenkirchen ,Parkstadion,Yugoslavia,Zaire,9.0,0.0,6.0,0.0
+53700.0,49098.76315789474,34271.41071428572,1974,Group 3,Dortmund ,Westfalenstadion,Netherlands,Sweden,0.0,0.0,0.0,0.0
+13400.0,49098.76315789474,34271.41071428572,1974,Group 3,Hanover ,Niedersachsenstadion,Bulgaria,Uruguay,1.0,1.0,0.0,0.0
+25300.0,49098.76315789474,25915.745454545453,1974,Group 4,Munich ,Olympiastadion,Haiti,Poland,0.0,7.0,0.0,5.0
+70100.0,49098.76315789474,25915.745454545453,1974,Group 4,Stuttgart ,Neckarstadion,Argentina,Italy,1.0,1.0,1.0,1.0
+56000.0,49098.76315789474,34241.76271186441,1974,Group 2,Frankfurt/Main ,Waldstadion,Scotland,Yugoslavia,1.0,1.0,0.0,0.0
+17400.0,49098.76315789474,41664.06451612903,1974,Group 1,Berlin West ,Olympiastadion,Australia,Chile,0.0,0.0,0.0,0.0
+36200.0,49098.76315789474,34241.76271186441,1974,Group 2,Gelsenkirchen ,Parkstadion,Zaire,Brazil,0.0,3.0,0.0,1.0
+60200.0,49098.76315789474,41664.06451612903,1974,Group 1,Hamburg ,Volksparkstadion,German DR,Germany FR,1.0,0.0,0.0,0.0
+53300.0,49098.76315789474,34271.41071428572,1974,Group 3,Dortmund ,Westfalenstadion,Bulgaria,Netherlands,1.0,4.0,0.0,2.0
+25900.0,49098.76315789474,25915.745454545453,1974,Group 4,Munich ,Olympiastadion,Argentina,Haiti,4.0,1.0,2.0,0.0
+28300.0,49098.76315789474,34271.41071428572,1974,Group 3,D�Sseldorf ,Rheinstadion,Sweden,Uruguay,3.0,0.0,0.0,0.0
+70100.0,49098.76315789474,25915.745454545453,1974,Group 4,Stuttgart ,Neckarstadion,Poland,Italy,2.0,1.0,2.0,0.0
+67385.0,49098.76315789474,51367.86666666667,1974,Group B,D�Sseldorf ,Rheinstadion,Yugoslavia,Germany FR,0.0,2.0,0.0,1.0
+59863.0,49098.76315789474,54321.35,1974,Group A,Hanover ,Niedersachsenstadion,Brazil,German DR,1.0,0.0,0.0,0.0
+56548.0,49098.76315789474,54321.35,1974,Group A,Gelsenkirchen ,Parkstadion,Netherlands,Argentina,4.0,0.0,2.0,0.0
+44955.0,49098.76315789474,51367.86666666667,1974,Group B,Stuttgart ,Neckarstadion,Sweden,Poland,0.0,1.0,0.0,1.0
+39400.0,49098.76315789474,54321.35,1974,Group A,Hanover ,Niedersachsenstadion,Argentina,Brazil,1.0,2.0,1.0,1.0
+58000.0,49098.76315789474,51367.86666666667,1974,Group B,Frankfurt/Main ,Waldstadion,Poland,Yugoslavia,2.0,1.0,1.0,1.0
+68348.0,49098.76315789474,54321.35,1974,Group A,Gelsenkirchen ,Parkstadion,German DR,Netherlands,0.0,2.0,0.0,1.0
+67800.0,49098.76315789474,51367.86666666667,1974,Group B,D�Sseldorf ,Rheinstadion,Germany FR,Sweden,4.0,2.0,0.0,1.0
+62000.0,49098.76315789474,51367.86666666667,1974,Group B,Frankfurt/Main ,Waldstadion,Poland,Germany FR,0.0,1.0,0.0,0.0
+53700.0,49098.76315789474,54321.35,1974,Group A,Dortmund ,Westfalenstadion,Netherlands,Brazil,2.0,0.0,0.0,0.0
+54254.0,49098.76315789474,54321.35,1974,Group A,Gelsenkirchen ,Parkstadion,Argentina,German DR,1.0,1.0,1.0,1.0
+41300.0,49098.76315789474,51367.86666666667,1974,Group B,D�Sseldorf ,Rheinstadion,Sweden,Yugoslavia,2.0,1.0,1.0,1.0
+77100.0,49098.76315789474,50847.86666666667,1974,Match for third place,Munich ,Olympiastadion,Brazil,Poland,0.0,1.0,0.0,0.0
+78200.0,49098.76315789474,76383.65,1974,Final,Munich ,Olympiastadion,Netherlands,Germany FR,1.0,2.0,1.0,2.0
+67579.0,40678.71052631579,34241.76271186441,1978,Group 2,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Germany FR,Poland,0.0,0.0,0.0,0.0
+42373.0,40678.71052631579,41664.06451612903,1978,Group 1,Mar Del Plata ,Estadio Jos� Mar�a Minella,Italy,France,2.0,1.0,1.0,1.0
+17396.0,40678.71052631579,34241.76271186441,1978,Group 2,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,Tunisia,Mexico,3.0,1.0,0.0,1.0
+71615.0,40678.71052631579,41664.06451612903,1978,Group 1,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Argentina,Hungary,2.0,1.0,1.0,1.0
+32569.0,40678.71052631579,34271.41071428572,1978,Group 3,Mar Del Plata ,Estadio Jos� Mar�a Minella,Sweden,Brazil,1.0,1.0,1.0,1.0
+40841.0,40678.71052631579,34271.41071428572,1978,Group 3,Buenos Aires ,Jose Amalfitani,Austria,Spain,2.0,1.0,1.0,1.0
+37927.0,40678.71052631579,25915.745454545453,1978,Group 4,Cordoba ,Estadio Ol�mpico Chateau Carreras,Peru,Scotland,3.0,1.0,1.0,1.0
+33431.0,40678.71052631579,25915.745454545453,1978,Group 4,Mendoza ,San Martin,Netherlands,IR Iran,3.0,0.0,1.0,0.0
+26533.0,40678.71052631579,41664.06451612903,1978,Group 1,Mar Del Plata ,Estadio Jos� Mar�a Minella,Italy,Hungary,3.0,1.0,2.0,0.0
+9624.0,40678.71052631579,34241.76271186441,1978,Group 2,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,Poland,Tunisia,1.0,0.0,1.0,0.0
+35258.0,40678.71052631579,34241.76271186441,1978,Group 2,Cordoba ,Estadio Ol�mpico Chateau Carreras,Germany FR,Mexico,6.0,0.0,4.0,0.0
+71666.0,40678.71052631579,41664.06451612903,1978,Group 1,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Argentina,France,2.0,1.0,1.0,0.0
+34771.0,40678.71052631579,34271.41071428572,1978,Group 3,Mar Del Plata ,Estadio Jos� Mar�a Minella,Brazil,Spain,0.0,0.0,0.0,0.0
+41424.0,40678.71052631579,34271.41071428572,1978,Group 3,Buenos Aires ,Jose Amalfitani,Austria,Sweden,1.0,0.0,1.0,0.0
+7938.0,40678.71052631579,25915.745454545453,1978,Group 4,Cordoba ,Estadio Ol�mpico Chateau Carreras,Scotland,IR Iran,1.0,1.0,1.0,0.0
+28125.0,40678.71052631579,25915.745454545453,1978,Group 4,Mendoza ,San Martin,Netherlands,Peru,0.0,0.0,0.0,0.0
+23127.0,40678.71052631579,41664.06451612903,1978,Group 1,Mar Del Plata ,Estadio Jos� Mar�a Minella,France,Hungary,3.0,1.0,3.0,1.0
+22651.0,40678.71052631579,34241.76271186441,1978,Group 2,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,Poland,Mexico,3.0,1.0,1.0,0.0
+30667.0,40678.71052631579,34241.76271186441,1978,Group 2,Cordoba ,Estadio Ol�mpico Chateau Carreras,Germany FR,Tunisia,0.0,0.0,0.0,0.0
+71712.0,40678.71052631579,41664.06451612903,1978,Group 1,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Italy,Argentina,1.0,0.0,0.0,0.0
+35221.0,40678.71052631579,34271.41071428572,1978,Group 3,Mar Del Plata ,Estadio Jos� Mar�a Minella,Brazil,Austria,1.0,0.0,1.0,0.0
+42132.0,40678.71052631579,34271.41071428572,1978,Group 3,Buenos Aires ,Jose Amalfitani,Spain,Sweden,1.0,0.0,0.0,0.0
+21262.0,40678.71052631579,25915.745454545453,1978,Group 4,Cordoba ,Estadio Ol�mpico Chateau Carreras,Peru,Iran,4.0,1.0,3.0,1.0
+35130.0,40678.71052631579,25915.745454545453,1978,Group 4,Mendoza ,San Martin,Scotland,Netherlands,3.0,2.0,1.0,1.0
+67547.0,40678.71052631579,54321.35,1978,Group A,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Germany FR,Italy,0.0,0.0,0.0,0.0
+25050.0,40678.71052631579,54321.35,1978,Group A,Cordoba ,Estadio Ol�mpico Chateau Carreras,Netherlands,Austria,5.0,1.0,3.0,0.0
+31278.0,40678.71052631579,51367.86666666667,1978,Group B,Mendoza ,San Martin,Brazil,Peru,3.0,0.0,2.0,0.0
+37091.0,40678.71052631579,51367.86666666667,1978,Group B,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,Argentina,Poland,2.0,0.0,1.0,0.0
+35288.0,40678.71052631579,51367.86666666667,1978,Group B,Mendoza ,San Martin,Poland,Peru,1.0,0.0,0.0,0.0
+66695.0,40678.71052631579,54321.35,1978,Group A,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Italy,Austria,1.0,0.0,1.0,0.0
+40750.0,40678.71052631579,54321.35,1978,Group A,Cordoba ,Estadio Ol�mpico Chateau Carreras,Germany FR,Netherlands,2.0,2.0,1.0,1.0
+37326.0,40678.71052631579,51367.86666666667,1978,Group B,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,Argentina,Brazil,0.0,0.0,0.0,0.0
+67433.0,40678.71052631579,54321.35,1978,Group A,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Netherlands,Italy,2.0,1.0,0.0,1.0
+38318.0,40678.71052631579,54321.35,1978,Group A,Cordoba ,Estadio Ol�mpico Chateau Carreras,Austria,Germany FR,3.0,2.0,0.0,1.0
+39586.0,40678.71052631579,51367.86666666667,1978,Group B,Mendoza ,San Martin,Brazil,Poland,3.0,1.0,1.0,1.0
+37315.0,40678.71052631579,51367.86666666667,1978,Group B,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,Argentina,Peru,6.0,0.0,2.0,0.0
+69659.0,40678.71052631579,50847.86666666667,1978,Match for third place,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Brazil,Italy,2.0,1.0,0.0,1.0
+71483.0,40678.71052631579,76383.65,1978,Final,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,Argentina,Netherlands,3.0,1.0,0.0,0.0
+95000.0,40571.596153846156,34271.41071428572,1982,Group 3,Barcelona ,Camp Nou,Argentina,Belgium,0.0,1.0,0.0,0.0
+33000.0,40571.596153846156,41664.06451612903,1982,Group 1,Vigo ,Estadio Municipal de Bala�dos,Italy,Poland,0.0,0.0,0.0,0.0
+68000.0,40571.596153846156,65658.58333333333,1982,Group 6,Seville ,Ramon Sanchez Pizjuan,Brazil,Soviet Union,2.0,1.0,0.0,1.0
+11000.0,40571.596153846156,41664.06451612903,1982,Group 1,La Coru�A ,Riazor,Peru,Cameroon,0.0,0.0,0.0,0.0
+23000.0,40571.596153846156,34271.41071428572,1982,Group 3,Elche ,Nuevo Estadio,Hungary,El Salvador,10.0,1.0,3.0,0.0
+36000.0,40571.596153846156,65658.58333333333,1982,Group 6,Malaga ,La Rosaleda,Scotland,New Zealand,5.0,2.0,3.0,0.0
+42000.0,40571.596153846156,34241.76271186441,1982,Group 2,Gijon ,El Molinon,Germany FR,Algeria,1.0,2.0,0.0,0.0
+44172.0,40571.596153846156,25915.745454545453,1982,Group 4,Bilbao ,San Mames,England,France,3.0,1.0,1.0,1.0
+49562.0,40571.596153846156,35354.0,1982,Group 5,Valencia ,Luis Casanova,Spain,Honduras,1.0,1.0,0.0,1.0
+22500.0,40571.596153846156,34241.76271186441,1982,Group 2,Oviedo ,Carlos Tartiere,Chile,Austria,0.0,1.0,0.0,1.0
+25000.0,40571.596153846156,25915.745454545453,1982,Group 4,Valladolid ,Jose Zorrilla,Czechoslovakia,Kuwait,1.0,1.0,1.0,0.0
+25000.0,40571.596153846156,35354.0,1982,Group 5,Zaragoza ,La Romareda,Yugoslavia,Northern Ireland,0.0,0.0,0.0,0.0
+25000.0,40571.596153846156,41664.06451612903,1982,Group 1,Vigo ,Estadio Municipal de Bala�dos,Italy,Peru,1.0,1.0,1.0,0.0
+32093.0,40571.596153846156,34271.41071428572,1982,Group 3,Alicante ,Jose Rico Perez,Argentina,Hungary,4.0,1.0,2.0,0.0
+47379.0,40571.596153846156,65658.58333333333,1982,Group 6,Seville ,Benito Villamarin,Brazil,Scotland,4.0,1.0,1.0,1.0
+19000.0,40571.596153846156,41664.06451612903,1982,Group 1,La Coru�A ,Riazor,Poland,Cameroon,0.0,0.0,0.0,0.0
+15000.0,40571.596153846156,34271.41071428572,1982,Group 3,Elche ,Nuevo Estadio,Belgium,El Salvador,1.0,0.0,1.0,0.0
+19000.0,40571.596153846156,65658.58333333333,1982,Group 6,Malaga ,La Rosaleda,Soviet Union,New Zealand,3.0,0.0,1.0,0.0
+42000.0,40571.596153846156,34241.76271186441,1982,Group 2,Gijon ,El Molinon,Germany FR,Chile,4.0,1.0,1.0,0.0
+41123.0,40571.596153846156,25915.745454545453,1982,Group 4,Bilbao ,San Mames,England,Czechoslovakia,2.0,0.0,0.0,0.0
+48000.0,40571.596153846156,35354.0,1982,Group 5,Valencia ,Luis Casanova,Spain,Yugoslavia,2.0,1.0,1.0,1.0
+22000.0,40571.596153846156,34241.76271186441,1982,Group 2,Oviedo ,Carlos Tartiere,Algeria,Austria,0.0,2.0,0.0,0.0
+30043.0,40571.596153846156,25915.745454545453,1982,Group 4,Valladolid ,Jose Zorrilla,France,Kuwait,4.0,1.0,2.0,0.0
+15000.0,40571.596153846156,35354.0,1982,Group 5,Zaragoza ,La Romareda,Honduras,Northern Ireland,1.0,1.0,0.0,1.0
+25000.0,40571.596153846156,41664.06451612903,1982,Group 1,La Coru�A ,Riazor,Poland,Peru,5.0,1.0,0.0,0.0
+37000.0,40571.596153846156,34271.41071428572,1982,Group 3,Elche ,Nuevo Estadio,Belgium,Hungary,1.0,1.0,0.0,1.0
+45000.0,40571.596153846156,65658.58333333333,1982,Group 6,Malaga ,La Rosaleda,Soviet Union,Scotland,2.0,2.0,0.0,1.0
+20000.0,40571.596153846156,41664.06451612903,1982,Group 1,Vigo ,Estadio Municipal de Bala�dos,Italy,Cameroon,1.0,1.0,0.0,0.0
+32500.0,40571.596153846156,34271.41071428572,1982,Group 3,Alicante ,Jose Rico Perez,Argentina,El Salvador,2.0,0.0,1.0,0.0
+43000.0,40571.596153846156,65658.58333333333,1982,Group 6,Seville ,Benito Villamarin,Brazil,New Zealand,4.0,0.0,2.0,0.0
+16000.0,40571.596153846156,34241.76271186441,1982,Group 2,Oviedo ,Carlos Tartiere,Algeria,Chile,3.0,2.0,3.0,0.0
+28000.0,40571.596153846156,25915.745454545453,1982,Group 4,Valladolid ,Jose Zorrilla,France,Czechoslovakia,1.0,1.0,0.0,0.0
+25000.0,40571.596153846156,35354.0,1982,Group 5,Zaragoza ,La Romareda,Honduras,Yugoslavia,0.0,1.0,0.0,0.0
+41000.0,40571.596153846156,34241.76271186441,1982,Group 2,Gijon ,El Molinon,Germany FR,Austria,1.0,0.0,1.0,0.0
+39700.0,40571.596153846156,25915.745454545453,1982,Group 4,Bilbao ,San Mames,England,Kuwait,1.0,0.0,1.0,0.0
+49562.0,40571.596153846156,35354.0,1982,Group 5,Valencia ,Luis Casanova,Northern Ireland,Spain,1.0,0.0,0.0,0.0
+37000.0,40571.596153846156,25915.745454545453,1982,Group 4,Madrid ,Vicente Calderon,Austria,France,0.0,1.0,0.0,1.0
+65000.0,40571.596153846156,41664.06451612903,1982,Group 1,Barcelona ,Camp Nou,Poland,Belgium,3.0,0.0,2.0,0.0
+43000.0,40571.596153846156,34271.41071428572,1982,Group 3,Barcelona ,Sarria,Italy,Argentina,2.0,1.0,0.0,0.0
+75000.0,40571.596153846156,34241.76271186441,1982,Group 2,Madrid ,Santiago Bernabeu,Germany FR,England,0.0,0.0,0.0,0.0
+20000.0,40571.596153846156,25915.745454545453,1982,Group 4,Madrid ,Vicente Calderon,Austria,Northern Ireland,2.0,2.0,0.0,1.0
+45000.0,40571.596153846156,41664.06451612903,1982,Group 1,Barcelona ,Camp Nou,Belgium,Soviet Union,0.0,1.0,0.0,0.0
+44000.0,40571.596153846156,34271.41071428572,1982,Group 3,Barcelona ,Sarria,Argentina,Brazil,1.0,3.0,0.0,1.0
+90089.0,40571.596153846156,34241.76271186441,1982,Group 2,Madrid ,Santiago Bernabeu,Germany FR,Spain,2.0,1.0,0.0,0.0
+37000.0,40571.596153846156,25915.745454545453,1982,Group 4,Madrid ,Vicente Calderon,France,Northern Ireland,4.0,1.0,1.0,0.0
+65000.0,40571.596153846156,41664.06451612903,1982,Group 1,Barcelona ,Camp Nou,Poland,Soviet Union,0.0,0.0,0.0,0.0
+44000.0,40571.596153846156,34271.41071428572,1982,Group 3,Barcelona ,Sarria,Italy,Brazil,3.0,2.0,2.0,1.0
+75000.0,40571.596153846156,34241.76271186441,1982,Group 2,Madrid ,Santiago Bernabeu,Spain,England,0.0,0.0,0.0,0.0
+50000.0,40571.596153846156,59053.333333333336,1982,Semi-finals,Barcelona ,Camp Nou,Poland,Italy,0.0,2.0,0.0,1.0
+70000.0,40571.596153846156,59053.333333333336,1982,Semi-finals,Seville ,Ramon Sanchez Pizjuan,Germany FR,France,3.0,3.0,0.0,0.0
+28000.0,40571.596153846156,50847.86666666667,1982,Match for third place,Alicante ,Jose Rico Perez,Poland,France,3.0,2.0,2.0,1.0
+90000.0,40571.596153846156,76383.65,1982,Final,Madrid ,Santiago Bernabeu,Italy,Germany FR,3.0,1.0,0.0,0.0
+96000.0,46039.057692307695,54321.35,1986,Group A,Mexico City ,Estadio Azteca,Bulgaria,Italy,1.0,1.0,0.0,1.0
+65500.0,46039.057692307695,45514.9375,1986,Group C,Leon ,Nou Camp - Estadio Le�n,Canada,France,0.0,1.0,0.0,0.0
+35748.0,46039.057692307695,45427.333333333336,1986,Group D,Guadalajara ,Jalisco,Spain,Brazil,0.0,1.0,0.0,0.0
+16500.0,46039.057692307695,45514.9375,1986,Group C,Irapuato ,Estadio Irapuato,Soviet Union,Hungary,6.0,0.0,3.0,0.0
+60000.0,46039.057692307695,54321.35,1986,Group A,Mexico City ,Estadio Ol�mpico Universitario,Argentina,Korea Republic,3.0,1.0,2.0,0.0
+19900.0,46039.057692307695,42840.875,1986,Group F,Monterrey ,Estadio Universitario,Morocco,Poland,0.0,0.0,0.0,0.0
+22000.0,46039.057692307695,45427.333333333336,1986,Group D,Guadalajara ,Tres de Marzo,Algeria,Northern Ireland,1.0,1.0,0.0,1.0
+110000.0,46039.057692307695,51367.86666666667,1986,Group B,Mexico City ,Estadio Azteca,Belgium,Mexico,1.0,2.0,1.0,2.0
+23000.0,46039.057692307695,42840.875,1986,Group F,Monterrey ,Tecnologico,Portugal,England,1.0,0.0,0.0,0.0
+24000.0,46039.057692307695,51367.86666666667,1986,Group B,Toluca ,Bombonera - Estadio Nemesio Diez,Paraguay,Iraq,1.0,0.0,1.0,0.0
+18000.0,46039.057692307695,45675.916666666664,1986,Group E,Nezahualcoyotl ,Neza,Scotland,Denmark,0.0,1.0,0.0,0.0
+30500.0,46039.057692307695,45675.916666666664,1986,Group E,Queretaro ,Estadio Corregidora,Uruguay,Germany FR,1.0,1.0,1.0,0.0
+32000.0,46039.057692307695,54321.35,1986,Group A,Puebla ,Cuauhtemoc,Italy,Argentina,1.0,1.0,1.0,1.0
+36540.0,46039.057692307695,45514.9375,1986,Group C,Leon ,Nou Camp - Estadio Le�n,France,Soviet Union,1.0,1.0,0.0,0.0
+45000.0,46039.057692307695,54321.35,1986,Group A,Mexico City ,Estadio Ol�mpico Universitario,Korea Republic,Bulgaria,1.0,1.0,0.0,1.0
+13800.0,46039.057692307695,45514.9375,1986,Group C,Irapuato ,Estadio Irapuato,Hungary,Canada,2.0,0.0,1.0,0.0
+48000.0,46039.057692307695,45427.333333333336,1986,Group D,Guadalajara ,Jalisco,Brazil,Algeria,1.0,0.0,0.0,0.0
+20200.0,46039.057692307695,42840.875,1986,Group F,Monterrey ,Tecnologico,England,Morocco,0.0,0.0,0.0,0.0
+28000.0,46039.057692307695,45427.333333333336,1986,Group D,Guadalajara ,Tres de Marzo,Northern Ireland,Spain,1.0,2.0,0.0,2.0
+114600.0,46039.057692307695,51367.86666666667,1986,Group B,Mexico City ,Estadio Azteca,Mexico,Paraguay,1.0,1.0,1.0,0.0
+19915.0,46039.057692307695,42840.875,1986,Group F,Monterrey ,Estadio Universitario,Poland,Portugal,1.0,0.0,0.0,0.0
+20000.0,46039.057692307695,51367.86666666667,1986,Group B,Toluca ,Bombonera - Estadio Nemesio Diez,Iraq,Belgium,1.0,2.0,0.0,2.0
+26500.0,46039.057692307695,45675.916666666664,1986,Group E,Nezahualcoyotl ,Neza,Denmark,Uruguay,6.0,1.0,2.0,1.0
+30000.0,46039.057692307695,45675.916666666664,1986,Group E,Queretaro ,Estadio Corregidora,Germany FR,Scotland,2.0,1.0,1.0,1.0
+31420.0,46039.057692307695,45514.9375,1986,Group C,Leon ,Nou Camp - Estadio Le�n,Hungary,France,0.0,3.0,0.0,1.0
+14200.0,46039.057692307695,45514.9375,1986,Group C,Irapuato ,Estadio Irapuato,Soviet Union,Canada,2.0,0.0,0.0,0.0
+20000.0,46039.057692307695,54321.35,1986,Group A,Puebla ,Cuauhtemoc,Korea Republic,Italy,2.0,3.0,0.0,1.0
+65000.0,46039.057692307695,54321.35,1986,Group A,Mexico City ,Estadio Ol�mpico Universitario,Argentina,Bulgaria,2.0,0.0,1.0,0.0
+16000.0,46039.057692307695,51367.86666666667,1986,Group B,Toluca ,Bombonera - Estadio Nemesio Diez,Paraguay,Belgium,2.0,2.0,0.0,1.0
+103763.0,46039.057692307695,51367.86666666667,1986,Group B,Mexico City ,Estadio Azteca,Iraq,Mexico,0.0,1.0,0.0,0.0
+28000.0,46039.057692307695,42840.875,1986,Group F,Guadalajara ,Tres de Marzo,Portugal,Morocco,1.0,3.0,0.0,2.0
+22700.0,46039.057692307695,42840.875,1986,Group F,Monterrey ,Tecnologico,England,Poland,3.0,0.0,3.0,0.0
+51000.0,46039.057692307695,45427.333333333336,1986,Group D,Guadalajara ,Jalisco,Northern Ireland,Brazil,0.0,3.0,0.0,2.0
+23980.0,46039.057692307695,45427.333333333336,1986,Group D,Monterrey ,Tecnologico,Algeria,Spain,0.0,3.0,0.0,1.0
+20000.0,46039.057692307695,45675.916666666664,1986,Group E,Nezahualcoyotl ,Neza,Scotland,Uruguay,0.0,0.0,0.0,0.0
+36000.0,46039.057692307695,45675.916666666664,1986,Group E,Queretaro ,Estadio Corregidora,Denmark,Germany FR,2.0,0.0,1.0,0.0
+32277.0,46039.057692307695,52346.84285714286,1986,Round of 16,Leon ,Nou Camp - Estadio Le�n,Soviet Union,Belgium,3.0,4.0,0.0,0.0
+114580.0,46039.057692307695,52346.84285714286,1986,Round of 16,Mexico City ,Estadio Azteca,Mexico,Bulgaria,2.0,0.0,1.0,0.0
+26000.0,46039.057692307695,52346.84285714286,1986,Round of 16,Puebla ,Cuauhtemoc,Argentina,Uruguay,1.0,0.0,1.0,0.0
+45000.0,46039.057692307695,52346.84285714286,1986,Round of 16,Guadalajara ,Jalisco,Brazil,Poland,4.0,0.0,1.0,0.0
+70000.0,46039.057692307695,52346.84285714286,1986,Round of 16,Mexico City ,Estadio Ol�mpico Universitario,Italy,France,0.0,2.0,0.0,1.0
+19800.0,46039.057692307695,52346.84285714286,1986,Round of 16,Monterrey ,Estadio Universitario,Morocco,Germany FR,0.0,1.0,0.0,0.0
+98728.0,46039.057692307695,52346.84285714286,1986,Round of 16,Mexico City ,Estadio Azteca,England,Paraguay,3.0,0.0,1.0,0.0
+38500.0,46039.057692307695,52346.84285714286,1986,Round of 16,Queretaro ,Estadio Corregidora,Denmark,Spain,1.0,5.0,1.0,1.0
+65000.0,46039.057692307695,45697.48484848485,1986,Quarter-finals,Guadalajara ,Jalisco,Brazil,France,1.0,1.0,0.0,0.0
+41700.0,46039.057692307695,45697.48484848485,1986,Quarter-finals,Monterrey ,Estadio Universitario,Germany FR,Mexico,0.0,0.0,0.0,0.0
+45000.0,46039.057692307695,45697.48484848485,1986,Quarter-finals,Puebla ,Cuauhtemoc,Spain,Belgium,1.0,1.0,0.0,0.0
+114580.0,46039.057692307695,45697.48484848485,1986,Quarter-finals,Mexico City ,Estadio Azteca,Argentina,England,2.0,1.0,0.0,0.0
+45000.0,46039.057692307695,59053.333333333336,1986,Semi-finals,Guadalajara ,Jalisco,France,Germany FR,0.0,2.0,0.0,1.0
+114500.0,46039.057692307695,59053.333333333336,1986,Semi-finals,Mexico City ,Estadio Azteca,Argentina,Belgium,2.0,0.0,0.0,0.0
+21000.0,46039.057692307695,50847.86666666667,1986,Match for third place,Puebla ,Cuauhtemoc,France,Belgium,4.0,2.0,0.0,0.0
+114600.0,46039.057692307695,76383.65,1986,Final,Mexico City ,Estadio Azteca,Argentina,Germany FR,3.0,2.0,1.0,0.0
+73780.0,48388.75,51367.86666666667,1990,Group B,Milan ,Giuseppe Meazza,Argentina,Cameroon,0.0,1.0,0.0,0.0
+42907.0,48388.75,51367.86666666667,1990,Group B,Bari ,Stadio San Nicola,Soviet Union,Romania,0.0,2.0,0.0,1.0
+30791.0,48388.75,45427.333333333336,1990,Group D,Bologna ,Renato Dall Ara,"rn"">United Arab Emirates",Colombia,0.0,2.0,0.0,0.0
+73303.0,48388.75,54321.35,1990,Group A,Rome ,Stadio Olimpico,Italy,Austria,1.0,0.0,0.0,0.0
+33266.0,48388.75,54321.35,1990,Group A,Florence ,Comunale,USA,Czechoslovakia,1.0,5.0,0.0,2.0
+62628.0,48388.75,45514.9375,1990,Group C,Turin ,Stadio delle Alpi,Brazil,Sweden,2.0,1.0,1.0,0.0
+74765.0,48388.75,45427.333333333336,1990,Group D,Milan ,Giuseppe Meazza,Germany FR,Yugoslavia,4.0,1.0,2.0,0.0
+30867.0,48388.75,45514.9375,1990,Group C,Genoa ,Luigi Ferraris,Costa Rica,Scotland,1.0,0.0,0.0,0.0
+35238.0,48388.75,42840.875,1990,Group F,Cagliari ,Sant Elia,England,"rn"">Republic of Ireland",1.0,1.0,1.0,0.0
+32790.0,48388.75,45675.916666666664,1990,Group E,Verona ,Marc Antonio Bentegodi,Belgium,Korea Republic,2.0,0.0,0.0,0.0
+33288.0,48388.75,42840.875,1990,Group F,Palermo ,Della Favorita,Netherlands,Egypt,1.0,1.0,0.0,0.0
+35713.0,48388.75,45675.916666666664,1990,Group E,Udine ,Dacia Arena,Uruguay,Spain,0.0,0.0,0.0,0.0
+55759.0,48388.75,51367.86666666667,1990,Group B,Naples ,San Paolo,Argentina,Soviet Union,2.0,0.0,1.0,0.0
+38687.0,48388.75,51367.86666666667,1990,Group B,Bari ,Stadio San Nicola,Cameroon,Romania,2.0,1.0,0.0,0.0
+32257.0,48388.75,45427.333333333336,1990,Group D,Bologna ,Renato Dall Ara,Yugoslavia,Colombia,1.0,0.0,0.0,0.0
+73423.0,48388.75,54321.35,1990,Group A,Rome ,Stadio Olimpico,Italy,USA,1.0,0.0,1.0,0.0
+38962.0,48388.75,54321.35,1990,Group A,Florence ,Comunale,Austria,Czechoslovakia,0.0,1.0,0.0,1.0
+71169.0,48388.75,45427.333333333336,1990,Group D,Milan ,Giuseppe Meazza,Germany FR,"rn"">United Arab Emirates",5.0,1.0,2.0,0.0
+58007.0,48388.75,45514.9375,1990,Group C,Turin ,Stadio delle Alpi,Brazil,Costa Rica,1.0,0.0,1.0,0.0
+31823.0,48388.75,45514.9375,1990,Group C,Genoa ,Luigi Ferraris,Sweden,Scotland,1.0,2.0,0.0,1.0
+35267.0,48388.75,42840.875,1990,Group F,Cagliari ,Sant Elia,England,Netherlands,0.0,0.0,0.0,0.0
+33288.0,48388.75,42840.875,1990,Group F,Palermo ,Della Favorita,"rn"">Republic of Ireland",Egypt,0.0,0.0,0.0,0.0
+32733.0,48388.75,45675.916666666664,1990,Group E,Udine ,Dacia Arena,Korea Republic,Spain,1.0,3.0,1.0,1.0
+33759.0,48388.75,45675.916666666664,1990,Group E,Verona ,Marc Antonio Bentegodi,Belgium,Uruguay,3.0,1.0,2.0,0.0
+52733.0,48388.75,51367.86666666667,1990,Group B,Naples ,San Paolo,Argentina,Romania,1.0,1.0,0.0,0.0
+37307.0,48388.75,51367.86666666667,1990,Group B,Bari ,Stadio San Nicola,Cameroon,Soviet Union,0.0,4.0,0.0,2.0
+72510.0,48388.75,45427.333333333336,1990,Group D,Milan ,Giuseppe Meazza,Germany FR,Colombia,1.0,1.0,0.0,0.0
+27833.0,48388.75,45427.333333333336,1990,Group D,Bologna ,Renato Dall Ara,Yugoslavia,"rn"">United Arab Emirates",4.0,1.0,2.0,1.0
+73303.0,48388.75,54321.35,1990,Group A,Rome ,Stadio Olimpico,Italy,Czechoslovakia,2.0,0.0,1.0,0.0
+34857.0,48388.75,54321.35,1990,Group A,Florence ,Comunale,Austria,USA,2.0,1.0,0.0,0.0
+62502.0,48388.75,45514.9375,1990,Group C,Turin ,Stadio delle Alpi,Brazil,Scotland,1.0,0.0,0.0,0.0
+30223.0,48388.75,45514.9375,1990,Group C,Genoa ,Luigi Ferraris,Sweden,Costa Rica,1.0,2.0,1.0,0.0
+29039.0,48388.75,45675.916666666664,1990,Group E,Udine ,Friuli,Korea Republic,Uruguay,0.0,1.0,0.0,0.0
+35950.0,48388.75,45675.916666666664,1990,Group E,Verona ,Marc Antonio Bentegodi,Belgium,Spain,1.0,2.0,1.0,2.0
+33288.0,48388.75,42840.875,1990,Group F,Palermo ,Della Favorita,"rn"">Republic of Ireland",Netherlands,1.0,1.0,0.0,1.0
+34959.0,48388.75,42840.875,1990,Group F,Cagliari ,Sant Elia,England,Egypt,1.0,0.0,0.0,0.0
+50026.0,48388.75,52346.84285714286,1990,Round of 16,Naples ,San Paolo,Cameroon,Colombia,2.0,1.0,0.0,0.0
+47673.0,48388.75,52346.84285714286,1990,Round of 16,Bari ,Stadio San Nicola,Czechoslovakia,Costa Rica,4.0,1.0,1.0,0.0
+61381.0,48388.75,52346.84285714286,1990,Round of 16,Turin ,Stadio delle Alpi,Brazil,Argentina,0.0,1.0,0.0,0.0
+74559.0,48388.75,52346.84285714286,1990,Round of 16,Milan ,Giuseppe Meazza,Germany FR,Netherlands,2.0,1.0,0.0,0.0
+31818.0,48388.75,52346.84285714286,1990,Round of 16,Genoa ,Luigi Ferraris,"rn"">Republic of Ireland",Romania,0.0,0.0,0.0,0.0
+73303.0,48388.75,52346.84285714286,1990,Round of 16,Rome ,Stadio Olimpico,Italy,Uruguay,2.0,0.0,0.0,0.0
+35500.0,48388.75,52346.84285714286,1990,Round of 16,Verona ,Marc Antonio Bentegodi,Spain,Yugoslavia,1.0,2.0,0.0,0.0
+34520.0,48388.75,52346.84285714286,1990,Round of 16,Bologna ,Renato Dall Ara,England,Belgium,1.0,0.0,0.0,0.0
+38971.0,48388.75,45697.48484848485,1990,Quarter-finals,Florence ,Comunale,Yugoslavia,Argentina,0.0,0.0,0.0,0.0
+73303.0,48388.75,45697.48484848485,1990,Quarter-finals,Rome ,Stadio Olimpico,Italy,"rn"">Republic of Ireland",1.0,0.0,1.0,0.0
+73347.0,48388.75,45697.48484848485,1990,Quarter-finals,Milan ,Giuseppe Meazza,Germany FR,Czechoslovakia,1.0,0.0,1.0,0.0
+55205.0,48388.75,45697.48484848485,1990,Quarter-finals,Naples ,San Paolo,England,Cameroon,3.0,2.0,0.0,0.0
+59978.0,48388.75,59053.333333333336,1990,Semi-finals,Naples ,San Paolo,Italy,Argentina,1.0,1.0,0.0,0.0
+62628.0,48388.75,59053.333333333336,1990,Semi-finals,Turin ,Stadio delle Alpi,Germany FR,England,1.0,1.0,0.0,0.0
+51426.0,48388.75,50847.86666666667,1990,Match for third place,Bari ,Stadio San Nicola,Italy,England,2.0,1.0,0.0,0.0
+73603.0,48388.75,76383.65,1990,Final,Rome ,Stadio Olimpico,Germany FR,Argentina,1.0,0.0,0.0,0.0
+56247.0,68991.11538461539,45514.9375,1994,Group C,Dallas ,Cotton Bowl,Spain,Korea Republic,2.0,2.0,0.0,0.0
+63117.0,68991.11538461539,45514.9375,1994,Group C,Chicago ,Soldier Field,Germany,Bolivia,1.0,0.0,0.0,0.0
+73425.0,68991.11538461539,54321.35,1994,Group A,Detroit ,Pontiac Silverdome,USA,Switzerland,1.0,1.0,1.0,1.0
+75338.0,68991.11538461539,45675.916666666664,1994,Group E,New York/New Jersey ,Giants Stadium,Italy,"rn"">Republic of Ireland",0.0,1.0,0.0,1.0
+91856.0,68991.11538461539,54321.35,1994,Group A,Los Angeles ,Rose Bowl,Colombia,Romania,1.0,3.0,1.0,2.0
+61219.0,68991.11538461539,42840.875,1994,Group F,Orlando ,Citrus Bowl,Belgium,Morocco,1.0,0.0,1.0,0.0
+52395.0,68991.11538461539,45675.916666666664,1994,Group E,Washington Dc ,RFK Stadium,Norway,Mexico,1.0,0.0,0.0,0.0
+93194.0,68991.11538461539,51367.86666666667,1994,Group B,Los Angeles ,Rose Bowl,Cameroon,Sweden,2.0,2.0,1.0,1.0
+50535.0,68991.11538461539,42840.875,1994,Group F,Washington Dc ,RFK Stadium,Netherlands,Saudi Arabia,2.0,1.0,0.0,1.0
+81061.0,68991.11538461539,51367.86666666667,1994,Group B,San Francisco ,Stanford Stadium,Brazil,Russia,2.0,0.0,1.0,0.0
+54456.0,68991.11538461539,45427.333333333336,1994,Group D,Boston ,Foxboro Stadium,Argentina,Greece,4.0,0.0,2.0,0.0
+44132.0,68991.11538461539,45427.333333333336,1994,Group D,Dallas ,Cotton Bowl,Nigeria,Bulgaria,3.0,0.0,2.0,0.0
+63113.0,68991.11538461539,45514.9375,1994,Group C,Chicago ,Soldier Field,Germany,Spain,1.0,1.0,0.0,1.0
+61428.0,68991.11538461539,54321.35,1994,Group A,Detroit ,Pontiac Silverdome,Romania,Switzerland,1.0,4.0,1.0,1.0
+93869.0,68991.11538461539,54321.35,1994,Group A,Los Angeles ,Rose Bowl,USA,Colombia,2.0,1.0,1.0,0.0
+74624.0,68991.11538461539,45675.916666666664,1994,Group E,New York/New Jersey ,Giants Stadium,Italy,Norway,1.0,0.0,0.0,0.0
+54453.0,68991.11538461539,45514.9375,1994,Group C,Boston ,Foxboro Stadium,Korea Republic,Bolivia,0.0,0.0,0.0,0.0
+60790.0,68991.11538461539,45675.916666666664,1994,Group E,Orlando ,Citrus Bowl,Mexico,"rn"">Republic of Ireland",2.0,1.0,1.0,0.0
+71528.0,68991.11538461539,51367.86666666667,1994,Group B,Detroit ,Pontiac Silverdome,Sweden,Russia,3.0,1.0,1.0,1.0
+83401.0,68991.11538461539,51367.86666666667,1994,Group B,San Francisco ,Stanford Stadium,Brazil,Cameroon,3.0,0.0,1.0,0.0
+62387.0,68991.11538461539,42840.875,1994,Group F,Orlando ,Citrus Bowl,Belgium,Netherlands,1.0,0.0,0.0,0.0
+76322.0,68991.11538461539,42840.875,1994,Group F,New York/New Jersey ,Giants Stadium,Saudi Arabia,Morocco,2.0,1.0,2.0,1.0
+54453.0,68991.11538461539,45427.333333333336,1994,Group D,Boston ,Foxboro Stadium,Argentina,Nigeria,2.0,1.0,2.0,1.0
+63160.0,68991.11538461539,45427.333333333336,1994,Group D,Chicago ,Soldier Field,Bulgaria,Greece,4.0,0.0,1.0,0.0
+93869.0,68991.11538461539,54321.35,1994,Group A,Los Angeles ,Rose Bowl,USA,Romania,0.0,1.0,0.0,1.0
+83401.0,68991.11538461539,54321.35,1994,Group A,San Francisco ,Stanford Stadium,Switzerland,Colombia,0.0,2.0,0.0,1.0
+63998.0,68991.11538461539,45514.9375,1994,Group C,Dallas ,Cotton Bowl,Germany,Korea Republic,3.0,2.0,3.0,0.0
+63089.0,68991.11538461539,45514.9375,1994,Group C,Chicago ,Soldier Field,Bolivia,Spain,1.0,3.0,0.0,1.0
+72404.0,68991.11538461539,45675.916666666664,1994,Group E,New York/New Jersey ,Giants Stadium,"rn"">Republic of Ireland",Norway,0.0,0.0,0.0,0.0
+77217.0,68991.11538461539,51367.86666666667,1994,Group B,Detroit ,Pontiac Silverdome,Brazil,Sweden,1.0,1.0,0.0,1.0
+52535.0,68991.11538461539,45675.916666666664,1994,Group E,Washington Dc ,RFK Stadium,Italy,Mexico,1.0,1.0,0.0,0.0
+74914.0,68991.11538461539,51367.86666666667,1994,Group B,San Francisco ,Stanford Stadium,Russia,Cameroon,6.0,1.0,3.0,0.0
+60578.0,68991.11538461539,42840.875,1994,Group F,Orlando ,Citrus Bowl,Morocco,Netherlands,1.0,2.0,0.0,1.0
+52959.0,68991.11538461539,42840.875,1994,Group F,Washington Dc ,RFK Stadium,Belgium,Saudi Arabia,0.0,1.0,0.0,1.0
+53001.0,68991.11538461539,45427.333333333336,1994,Group D,Boston ,Foxboro Stadium,Greece,Nigeria,0.0,2.0,0.0,1.0
+63998.0,68991.11538461539,45427.333333333336,1994,Group D,Dallas ,Cotton Bowl,Argentina,Bulgaria,0.0,2.0,0.0,0.0
+60246.0,68991.11538461539,52346.84285714286,1994,Round of 16,Chicago ,Soldier Field,Germany,Belgium,3.0,2.0,3.0,1.0
+53121.0,68991.11538461539,52346.84285714286,1994,Round of 16,Washington Dc ,RFK Stadium,Spain,Switzerland,3.0,0.0,1.0,0.0
+60277.0,68991.11538461539,52346.84285714286,1994,Round of 16,Dallas ,Cotton Bowl,Saudi Arabia,Sweden,1.0,3.0,0.0,1.0
+90469.0,68991.11538461539,52346.84285714286,1994,Round of 16,Los Angeles ,Rose Bowl,Romania,Argentina,3.0,2.0,2.0,1.0
+61355.0,68991.11538461539,52346.84285714286,1994,Round of 16,Orlando ,Citrus Bowl,Netherlands,"rn"">Republic of Ireland",2.0,0.0,2.0,0.0
+84147.0,68991.11538461539,52346.84285714286,1994,Round of 16,San Francisco ,Stanford Stadium,Brazil,USA,1.0,0.0,0.0,0.0
+54367.0,68991.11538461539,52346.84285714286,1994,Round of 16,Boston ,Foxboro Stadium,Nigeria,Italy,1.0,2.0,0.0,0.0
+71030.0,68991.11538461539,52346.84285714286,1994,Round of 16,New York/New Jersey ,Giants Stadium,Mexico,Bulgaria,1.0,1.0,0.0,0.0
+53400.0,68991.11538461539,45697.48484848485,1994,Quarter-finals,Boston ,Foxboro Stadium,Italy,Spain,2.0,1.0,1.0,0.0
+63500.0,68991.11538461539,45697.48484848485,1994,Quarter-finals,Dallas ,Cotton Bowl,Netherlands,Brazil,2.0,3.0,0.0,0.0
+72000.0,68991.11538461539,45697.48484848485,1994,Quarter-finals,New York/New Jersey ,Giants Stadium,Bulgaria,Germany,2.0,1.0,0.0,0.0
+83500.0,68991.11538461539,45697.48484848485,1994,Quarter-finals,San Francisco ,Stanford Stadium,Romania,Sweden,2.0,2.0,0.0,0.0
+74110.0,68991.11538461539,59053.333333333336,1994,Semi-finals,New York/New Jersey ,Giants Stadium,Bulgaria,Italy,1.0,2.0,1.0,2.0
+91856.0,68991.11538461539,59053.333333333336,1994,Semi-finals,Los Angeles ,Rose Bowl,Sweden,Brazil,0.0,1.0,0.0,0.0
+91500.0,68991.11538461539,50847.86666666667,1994,Match for third place,Los Angeles ,Rose Bowl,Sweden,Bulgaria,4.0,0.0,4.0,0.0
+94194.0,68991.11538461539,76383.65,1994,Final,Los Angeles ,Rose Bowl,Brazil,Italy,0.0,0.0,0.0,0.0
+80000.0,43517.1875,54321.35,1998,Group A,Saint-Denis ,Stade de France,Brazil,Scotland,2.0,1.0,1.0,1.0
+29800.0,43517.1875,54321.35,1998,Group A,Montpellier ,La Mosson,Morocco,Norway,2.0,2.0,1.0,1.0
+31800.0,43517.1875,51367.86666666667,1998,Group B,Bordeaux ,Stade du Parc Lescure,Italy,Chile,2.0,2.0,1.0,1.0
+33500.0,43517.1875,51367.86666666667,1998,Group B,Toulouse ,Stade Municipal,Cameroon,Austria,1.0,1.0,0.0,0.0
+29800.0,43517.1875,45427.333333333336,1998,Group D,Montpellier ,La Mosson,Paraguay,Bulgaria,0.0,0.0,0.0,0.0
+38100.0,43517.1875,45514.9375,1998,Group C,Lens ,Stade Felix Bollaert,Saudi Arabia,Denmark,0.0,1.0,0.0,0.0
+55000.0,43517.1875,45514.9375,1998,Group C,Marseilles ,Stade V�lodrome,France,South Africa,3.0,0.0,1.0,0.0
+35500.0,43517.1875,45427.333333333336,1998,Group D,Nantes ,La Beaujoire,Spain,Nigeria,2.0,3.0,1.0,1.0
+39100.0,43517.1875,45675.916666666664,1998,Group E,Lyon ,Stade de Gerland,Korea Republic,Mexico,1.0,3.0,1.0,0.0
+77000.0,43517.1875,45675.916666666664,1998,Group E,Saint-Denis ,Stade de France,Netherlands,Belgium,0.0,0.0,0.0,0.0
+33500.0,43517.1875,46747.03333333333,1998,Group H,Toulouse ,Stade Municipal,Argentina,Japan,1.0,0.0,1.0,0.0
+30600.0,43517.1875,42840.875,1998,Group F,Saint-Etienne ,Stade Geoffroy Guichard,Yugoslavia,Iran,1.0,0.0,0.0,0.0
+38100.0,43517.1875,46747.03333333333,1998,Group H,Lens ,Stade Felix Bollaert,Jamaica,Croatia,1.0,3.0,1.0,1.0
+55000.0,43517.1875,48533.166666666664,1998,Group G,Marseilles ,Stade V�lodrome,England,Tunisia,2.0,0.0,1.0,0.0
+39100.0,43517.1875,48533.166666666664,1998,Group G,Lyon ,Stade de Gerland,Romania,Colombia,1.0,0.0,1.0,0.0
+45500.0,43517.1875,42840.875,1998,Group F,Paris ,Parc des Princes,Germany,USA,2.0,0.0,1.0,0.0
+31800.0,43517.1875,54321.35,1998,Group A,Bordeaux ,Stade du Parc Lescure,Scotland,Norway,1.0,1.0,0.0,0.0
+35500.0,43517.1875,54321.35,1998,Group A,Nantes ,La Beaujoire,Brazil,Morocco,3.0,0.0,2.0,0.0
+30600.0,43517.1875,51367.86666666667,1998,Group B,Saint-Etienne ,Stade Geoffroy Guichard,Chile,Austria,1.0,1.0,0.0,0.0
+29800.0,43517.1875,51367.86666666667,1998,Group B,Montpellier ,La Mosson,Italy,Cameroon,3.0,0.0,1.0,0.0
+33500.0,43517.1875,45514.9375,1998,Group C,Toulouse ,Stade Municipal,South Africa,Denmark,1.0,1.0,0.0,1.0
+80000.0,43517.1875,45514.9375,1998,Group C,Saint-Denis ,Stade de France,France,Saudi Arabia,4.0,0.0,1.0,0.0
+45500.0,43517.1875,45427.333333333336,1998,Group D,Paris ,Parc des Princes,Nigeria,Bulgaria,1.0,0.0,1.0,0.0
+30600.0,43517.1875,45427.333333333336,1998,Group D,Saint-Etienne ,Stade Geoffroy Guichard,Spain,Paraguay,0.0,0.0,0.0,0.0
+35500.0,43517.1875,46747.03333333333,1998,Group H,Nantes ,La Beaujoire,Japan,Croatia,0.0,1.0,0.0,0.0
+31800.0,43517.1875,45675.916666666664,1998,Group E,Bordeaux ,Stade du Parc Lescure,Belgium,Mexico,2.0,2.0,1.0,0.0
+55000.0,43517.1875,45675.916666666664,1998,Group E,Marseilles ,Stade V�lodrome,Netherlands,Korea Republic,5.0,0.0,2.0,0.0
+38100.0,43517.1875,42840.875,1998,Group F,Lens ,Stade Felix Bollaert,Germany,Yugoslavia,2.0,2.0,0.0,1.0
+45500.0,43517.1875,46747.03333333333,1998,Group H,Paris ,Parc des Princes,Argentina,Jamaica,5.0,0.0,1.0,0.0
+39100.0,43517.1875,42840.875,1998,Group F,Lyon ,Stade de Gerland,USA,Iran,1.0,2.0,0.0,1.0
+29800.0,43517.1875,48533.166666666664,1998,Group G,Montpellier ,La Mosson,Colombia,Tunisia,1.0,0.0,0.0,0.0
+33500.0,43517.1875,48533.166666666664,1998,Group G,Toulouse ,Stade Municipal,Romania,England,2.0,1.0,0.0,0.0
+80000.0,43517.1875,51367.86666666667,1998,Group B,Saint-Denis ,Stade de France,Italy,Austria,2.0,1.0,0.0,0.0
+35500.0,43517.1875,51367.86666666667,1998,Group B,Nantes ,La Beaujoire,Chile,Cameroon,1.0,1.0,1.0,0.0
+30600.0,43517.1875,54321.35,1998,Group A,Saint-Etienne ,Stade Geoffroy Guichard,Scotland,Morocco,0.0,3.0,0.0,1.0
+55000.0,43517.1875,54321.35,1998,Group A,Marseilles ,Stade V�lodrome,Brazil,Norway,1.0,2.0,0.0,0.0
+39100.0,43517.1875,45514.9375,1998,Group C,Lyon ,Stade de Gerland,France,Denmark,2.0,1.0,1.0,1.0
+31800.0,43517.1875,45514.9375,1998,Group C,Bordeaux ,Stade du Parc Lescure,South Africa,Saudi Arabia,2.0,2.0,1.0,1.0
+38100.0,43517.1875,45427.333333333336,1998,Group D,Lens ,Stade Felix Bollaert,Spain,Bulgaria,6.0,1.0,2.0,0.0
+33500.0,43517.1875,45427.333333333336,1998,Group D,Toulouse ,Stade Municipal,Nigeria,Paraguay,1.0,3.0,1.0,1.0
+45500.0,43517.1875,45675.916666666664,1998,Group E,Paris ,Parc des Princes,Belgium,Korea Republic,1.0,1.0,1.0,0.0
+30600.0,43517.1875,45675.916666666664,1998,Group E,Saint-Etienne ,Stade Geoffroy Guichard,Netherlands,Mexico,2.0,2.0,2.0,0.0
+29800.0,43517.1875,42840.875,1998,Group F,Montpellier ,La Mosson,Germany,Iran,2.0,0.0,0.0,0.0
+35500.0,43517.1875,42840.875,1998,Group F,Nantes ,La Beaujoire,USA,Yugoslavia,0.0,1.0,0.0,1.0
+39100.0,43517.1875,46747.03333333333,1998,Group H,Lyon ,Stade de Gerland,Japan,Jamaica,1.0,2.0,0.0,1.0
+31800.0,43517.1875,46747.03333333333,1998,Group H,Bordeaux ,Stade du Parc Lescure,Argentina,Croatia,1.0,0.0,1.0,0.0
+77000.0,43517.1875,48533.166666666664,1998,Group G,Saint-Denis ,Stade de France,Romania,Tunisia,1.0,1.0,0.0,1.0
+38100.0,43517.1875,48533.166666666664,1998,Group G,Lens ,Stade Felix Bollaert,Colombia,England,0.0,2.0,0.0,2.0
+55000.0,43517.1875,52346.84285714286,1998,Round of 16,Marseilles ,Stade V�lodrome,Italy,Norway,1.0,0.0,1.0,0.0
+45500.0,43517.1875,52346.84285714286,1998,Round of 16,Paris ,Parc des Princes,Brazil,Chile,4.0,1.0,3.0,0.0
+31800.0,43517.1875,52346.84285714286,1998,Round of 16,Lens ,Stade Felix Bollaert,France,Paraguay,1.0,0.0,0.0,0.0
+77000.0,43517.1875,52346.84285714286,1998,Round of 16,Saint-Denis ,Stade de France,Nigeria,Denmark,1.0,4.0,0.0,2.0
+29800.0,43517.1875,52346.84285714286,1998,Round of 16,Montpellier ,La Mosson,Germany,Mexico,2.0,1.0,0.0,0.0
+33500.0,43517.1875,52346.84285714286,1998,Round of 16,Toulouse ,Stade Municipal,Netherlands,Yugoslavia,2.0,1.0,1.0,0.0
+31800.0,43517.1875,52346.84285714286,1998,Round of 16,Bordeaux ,Stade du Parc Lescure,Romania,Croatia,0.0,1.0,0.0,1.0
+30600.0,43517.1875,52346.84285714286,1998,Round of 16,Saint-Etienne ,Stade Geoffroy Guichard,Argentina,England,2.0,2.0,0.0,0.0
+77000.0,43517.1875,45697.48484848485,1998,Quarter-finals,Saint-Denis ,Stade de France,Italy,France,0.0,0.0,0.0,0.0
+35500.0,43517.1875,45697.48484848485,1998,Quarter-finals,Nantes ,La Beaujoire,Brazil,Denmark,3.0,2.0,2.0,1.0
+55000.0,43517.1875,45697.48484848485,1998,Quarter-finals,Marseilles ,Stade V�lodrome,Netherlands,Argentina,2.0,1.0,1.0,1.0
+39100.0,43517.1875,45697.48484848485,1998,Quarter-finals,Lyon ,Stade de Gerland,Germany,Croatia,0.0,3.0,0.0,1.0
+54000.0,43517.1875,59053.333333333336,1998,Semi-finals,Marseilles ,Stade V�lodrome,Brazil,Netherlands,1.0,1.0,0.0,0.0
+76000.0,43517.1875,59053.333333333336,1998,Semi-finals,Saint-Denis ,Stade de France,France,Croatia,2.0,1.0,0.0,0.0
+45500.0,43517.1875,50847.86666666667,1998,Match for third place,Paris ,Parc des Princes,Netherlands,Croatia,1.0,2.0,1.0,2.0
+80000.0,43517.1875,76383.65,1998,Final,Saint-Denis ,Stade de France,Brazil,France,0.0,3.0,0.0,2.0
+62561.0,42268.703125,54321.35,2002,Group A,Seoul ,Seoul World Cup Stadium,France,Senegal,0.0,1.0,0.0,1.0
+30157.0,42268.703125,54321.35,2002,Group A,Ulsan ,Munsu Football Stadium,Uruguay,Denmark,1.0,2.0,0.0,1.0
+33679.0,42268.703125,45675.916666666664,2002,Group E,Niigata ,Niigata Stadium Big Swan,"rn"">Republic of Ireland",Cameroon,1.0,1.0,0.0,1.0
+32218.0,42268.703125,45675.916666666664,2002,Group E,Sapporo ,Sapporo Dome,Germany,Saudi Arabia,8.0,0.0,4.0,0.0
+34050.0,42268.703125,42840.875,2002,Group F,Ibaraki ,Kashima Stadium,Argentina,Nigeria,1.0,0.0,0.0,0.0
+25186.0,42268.703125,51367.86666666667,2002,Group B,Busan ,Busan Asiad Main Stadium,Paraguay,South Africa,2.0,2.0,1.0,0.0
+52721.0,42268.703125,42840.875,2002,Group F,Saitama ,Saitama Stadium 2002,England,Sweden,1.0,1.0,1.0,0.0
+28598.0,42268.703125,51367.86666666667,2002,Group B,Gwangju ,Gwangju World Cup Stadium,Spain,Slovenia,3.0,1.0,1.0,0.0
+33842.0,42268.703125,45514.9375,2002,Group C,Ulsan ,Munsu Football Stadium,Brazil,Turkey,2.0,1.0,0.0,1.0
+31081.0,42268.703125,48533.166666666664,2002,Group G,Sapporo ,Sapporo Dome,Italy,Ecuador,2.0,0.0,2.0,0.0
+32239.0,42268.703125,48533.166666666664,2002,Group G,Niigata ,Niigata Stadium Big Swan,Croatia,Mexico,0.0,1.0,0.0,0.0
+27217.0,42268.703125,45514.9375,2002,Group C,Gwangju ,Gwangju World Cup Stadium,China PR,Costa Rica,0.0,2.0,0.0,0.0
+55256.0,42268.703125,46747.03333333333,2002,Group H,Saitama ,Saitama Stadium 2002,Japan,Belgium,2.0,2.0,0.0,0.0
+48760.0,42268.703125,45427.333333333336,2002,Group D,Busan ,Busan Asiad Main Stadium,Korea Republic,Poland,2.0,0.0,1.0,0.0
+30957.0,42268.703125,46747.03333333333,2002,Group H,Kobe ,Kobe Wing Stadium,Russia,Tunisia,2.0,0.0,0.0,0.0
+37306.0,42268.703125,45427.333333333336,2002,Group D,Suwon ,Suwon World Cup Stadium,USA,Portugal,3.0,2.0,3.0,1.0
+35854.0,42268.703125,45675.916666666664,2002,Group E,Ibaraki ,Kashima Stadium,Germany,"rn"">Republic of Ireland",1.0,1.0,1.0,0.0
+43500.0,42268.703125,54321.35,2002,Group A,Daegu ,Daegu World Cup Stadium,Denmark,Senegal,1.0,1.0,1.0,0.0
+52328.0,42268.703125,45675.916666666664,2002,Group E,Saitama ,Saitama Stadium 2002,Cameroon,Saudi Arabia,1.0,0.0,0.0,0.0
+38289.0,42268.703125,54321.35,2002,Group A,Busan ,Busan Asiad Main Stadium,France,Uruguay,0.0,0.0,0.0,0.0
+36194.0,42268.703125,42840.875,2002,Group F,Kobe ,Kobe Wing Stadium,Sweden,Nigeria,2.0,1.0,1.0,1.0
+35927.0,42268.703125,42840.875,2002,Group F,Sapporo ,Sapporo Dome,Argentina,England,0.0,1.0,0.0,1.0
+24000.0,42268.703125,51367.86666666667,2002,Group B,Jeonju ,Jeonju World Cup Stadium,Spain,Paraguay,3.0,1.0,0.0,1.0
+47226.0,42268.703125,51367.86666666667,2002,Group B,Daegu ,Daegu World Cup Stadium,South Africa,Slovenia,1.0,0.0,1.0,0.0
+36750.0,42268.703125,45514.9375,2002,Group C,Jeju ,Jeju World Cup Stadium,Brazil,China PR,4.0,0.0,3.0,0.0
+36472.0,42268.703125,48533.166666666664,2002,Group G,Ibaraki ,Kashima Stadium,Italy,Croatia,1.0,2.0,0.0,0.0
+42299.0,42268.703125,45514.9375,2002,Group C,Incheon ,Incheon Football Stadium,Costa Rica,Turkey,1.0,1.0,0.0,0.0
+66108.0,42268.703125,46747.03333333333,2002,Group H,Yokohama ,International Stadium Yokohama,Japan,Russia,1.0,0.0,0.0,0.0
+45610.0,42268.703125,48533.166666666664,2002,Group G,Rifu ,Miyagi Stadium,Mexico,Ecuador,2.0,1.0,1.0,1.0
+60778.0,42268.703125,45427.333333333336,2002,Group D,Daegu ,Daegu World Cup Stadium,Korea Republic,USA,1.0,1.0,0.0,1.0
+31000.0,42268.703125,45427.333333333336,2002,Group D,Jeonju ,Jeonju World Cup Stadium,Portugal,Poland,4.0,0.0,1.0,0.0
+39700.0,42268.703125,46747.03333333333,2002,Group H,Oita ,Oita Stadium Big Eye,Tunisia,Belgium,1.0,1.0,1.0,1.0
+48100.0,42268.703125,54321.35,2002,Group A,Incheon ,Incheon Football Stadium,Denmark,France,2.0,0.0,1.0,0.0
+33681.0,42268.703125,54321.35,2002,Group A,Suwon ,Suwon World Cup Stadium,Senegal,Uruguay,3.0,3.0,3.0,0.0
+65320.0,42268.703125,45675.916666666664,2002,Group E,Yokohama ,International Stadium Yokohama,Saudi Arabia,"rn"">Republic of Ireland",0.0,3.0,0.0,1.0
+47085.0,42268.703125,45675.916666666664,2002,Group E,Shizuoka ,Shizuoka Stadium Ecopa,Cameroon,Germany,0.0,2.0,0.0,0.0
+45777.0,42268.703125,42840.875,2002,Group F,Rifu ,Miyagi Stadium,Sweden,Argentina,1.0,1.0,0.0,0.0
+44864.0,42268.703125,42840.875,2002,Group F,Osaka ,Osaka Nagai Stadium,Nigeria,England,0.0,0.0,0.0,0.0
+30176.0,42268.703125,51367.86666666667,2002,Group B,Jeju ,Jeju World Cup Stadium,Slovenia,Paraguay,1.0,3.0,1.0,0.0
+31024.0,42268.703125,51367.86666666667,2002,Group B,Daejeon ,Daejeon World Cup Stadium,South Africa,Spain,2.0,3.0,1.0,2.0
+38524.0,42268.703125,45514.9375,2002,Group C,Suwon ,Suwon World Cup Stadium,Costa Rica,Brazil,2.0,5.0,1.0,3.0
+43605.0,42268.703125,45514.9375,2002,Group C,Seoul ,Seoul World Cup Stadium,Turkey,China PR,3.0,0.0,2.0,0.0
+65862.0,42268.703125,48533.166666666664,2002,Group G,Yokohama ,International Stadium Yokohama,Ecuador,Croatia,1.0,0.0,0.0,0.0
+39291.0,42268.703125,48533.166666666664,2002,Group G,Oita ,Oita Stadium Big Eye,Mexico,Italy,1.0,1.0,1.0,0.0
+45213.0,42268.703125,46747.03333333333,2002,Group H,Osaka ,Osaka Nagai Stadium,Tunisia,Japan,0.0,2.0,0.0,0.0
+50239.0,42268.703125,45427.333333333336,2002,Group D,Incheon ,Incheon Football Stadium,Portugal,Korea Republic,0.0,1.0,0.0,0.0
+26482.0,42268.703125,45427.333333333336,2002,Group D,Daejeon ,Daejeon World Cup Stadium,Poland,USA,3.0,1.0,2.0,0.0
+46640.0,42268.703125,46747.03333333333,2002,Group H,Shizuoka ,Shizuoka Stadium Ecopa,Belgium,Russia,3.0,2.0,1.0,0.0
+40582.0,42268.703125,52346.84285714286,2002,Round of 16,Niigata ,Niigata Stadium Big Swan,Denmark,England,0.0,3.0,0.0,3.0
+25176.0,42268.703125,52346.84285714286,2002,Round of 16,Jeju ,Jeju World Cup Stadium,Germany,Paraguay,1.0,0.0,0.0,0.0
+38926.0,42268.703125,52346.84285714286,2002,Round of 16,Suwon ,Suwon World Cup Stadium,Spain,"rn"">Republic of Ireland",1.0,1.0,0.0,0.0
+39747.0,42268.703125,52346.84285714286,2002,Round of 16,Oita ,Oita Stadium Big Eye,Sweden,Senegal,1.0,2.0,0.0,0.0
+40440.0,42268.703125,52346.84285714286,2002,Round of 16,Kobe ,Kobe Wing Stadium,Brazil,Belgium,2.0,0.0,0.0,0.0
+36380.0,42268.703125,52346.84285714286,2002,Round of 16,Jeonju ,Jeonju World Cup Stadium,Mexico,USA,0.0,2.0,0.0,1.0
+45666.0,42268.703125,52346.84285714286,2002,Round of 16,Rifu ,Miyagi Stadium,Japan,Turkey,0.0,1.0,0.0,1.0
+38588.0,42268.703125,52346.84285714286,2002,Round of 16,Daejeon ,Daejeon World Cup Stadium,Korea Republic,Italy,2.0,1.0,0.0,0.0
+47436.0,42268.703125,45697.48484848485,2002,Quarter-finals,Shizuoka ,Shizuoka Stadium Ecopa,England,Brazil,1.0,2.0,1.0,1.0
+37337.0,42268.703125,45697.48484848485,2002,Quarter-finals,Ulsan ,Munsu Football Stadium,Germany,USA,1.0,0.0,1.0,0.0
+44233.0,42268.703125,45697.48484848485,2002,Quarter-finals,Osaka ,Osaka Nagai Stadium,Senegal,Turkey,0.0,1.0,0.0,0.0
+42114.0,42268.703125,45697.48484848485,2002,Quarter-finals,Gwangju ,Gwangju World Cup Stadium,Spain,Korea Republic,0.0,0.0,0.0,0.0
+65256.0,42268.703125,59053.333333333336,2002,Semi-finals,Seoul ,Seoul World Cup Stadium,Germany,Korea Republic,1.0,0.0,0.0,0.0
+61058.0,42268.703125,59053.333333333336,2002,Semi-finals,Saitama ,Saitama Stadium 2002,Brazil,Turkey,1.0,0.0,0.0,0.0
+63483.0,42268.703125,57741.5,2002,Third place,Daegu ,Daegu World Cup Stadium,Korea Republic,Turkey,2.0,3.0,1.0,3.0
+69029.0,42268.703125,76383.65,2002,Final,Yokohama ,International Stadium Yokohama,Germany,Brazil,0.0,2.0,0.0,0.0
+66000.0,52491.234375,54321.35,2006,Group A,Munich ,"FIFA World Cup Stadium, Munich",Germany,Costa Rica,4.0,2.0,2.0,1.0
+52000.0,52491.234375,54321.35,2006,Group A,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",Poland,Ecuador,0.0,2.0,0.0,1.0
+48000.0,52491.234375,51367.86666666667,2006,Group B,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",England,Paraguay,1.0,0.0,1.0,0.0
+62959.0,52491.234375,51367.86666666667,2006,Group B,Dortmund ,"FIFA World Cup Stadium, Dortmund","rn"">Trinidad and Tobago",Sweden,0.0,0.0,0.0,0.0
+49480.0,52491.234375,45514.9375,2006,Group C,Hamburg ,"FIFA World Cup Stadium, Hamburg",Argentina,C�te d'Ivoire,2.0,1.0,2.0,0.0
+43000.0,52491.234375,45514.9375,2006,Group C,Leipzig ,Zentralstadion,"rn"">Serbia and Montenegro",Netherlands,0.0,1.0,0.0,1.0
+41000.0,52491.234375,45427.333333333336,2006,Group D,Nuremberg ,Franken-Stadion,Mexico,Iran,3.0,1.0,1.0,1.0
+45000.0,52491.234375,45427.333333333336,2006,Group D,Cologne ,"FIFA World Cup Stadium, Cologne",Angola,Portugal,0.0,1.0,0.0,1.0
+46000.0,52491.234375,42840.875,2006,Group F,Kaiserslautern ,Fritz-Walter-Stadion,Australia,Japan,3.0,1.0,0.0,1.0
+52000.0,52491.234375,45675.916666666664,2006,Group E,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",USA,Czech Republic,0.0,3.0,0.0,2.0
+43000.0,52491.234375,45675.916666666664,2006,Group E,Hanover ,"FIFA World Cup Stadium, Hanover",Italy,Ghana,2.0,0.0,1.0,0.0
+48000.0,52491.234375,48533.166666666664,2006,Group G,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",Korea Republic,Togo,2.0,1.0,0.0,1.0
+52000.0,52491.234375,48533.166666666664,2006,Group G,Stuttgart ,Gottlieb-Daimler-Stadion,France,Switzerland,0.0,0.0,0.0,0.0
+72000.0,52491.234375,42840.875,2006,Group F,Berlin ,Olympiastadion,Brazil,Croatia,1.0,0.0,1.0,0.0
+43000.0,52491.234375,46747.03333333333,2006,Group H,Leipzig ,Zentralstadion,Spain,Ukraine,4.0,0.0,2.0,0.0
+66000.0,52491.234375,46747.03333333333,2006,Group H,Munich ,"FIFA World Cup Stadium, Munich",Tunisia,Saudi Arabia,2.0,2.0,1.0,0.0
+65000.0,52491.234375,54321.35,2006,Group A,Dortmund ,"FIFA World Cup Stadium, Dortmund",Germany,Poland,1.0,0.0,0.0,0.0
+50000.0,52491.234375,54321.35,2006,Group A,Hamburg ,"FIFA World Cup Stadium, Hamburg",Ecuador,Costa Rica,3.0,0.0,1.0,0.0
+41000.0,52491.234375,51367.86666666667,2006,Group B,Nuremberg ,Franken-Stadion,England,"rn"">Trinidad and Tobago",2.0,0.0,0.0,0.0
+72000.0,52491.234375,51367.86666666667,2006,Group B,Berlin ,Olympiastadion,Sweden,Paraguay,1.0,0.0,0.0,0.0
+52000.0,52491.234375,45514.9375,2006,Group C,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",Argentina,"rn"">Serbia and Montenegro",6.0,0.0,3.0,0.0
+52000.0,52491.234375,45514.9375,2006,Group C,Stuttgart ,Gottlieb-Daimler-Stadion,Netherlands,C�te d'Ivoire,2.0,1.0,2.0,1.0
+43000.0,52491.234375,45427.333333333336,2006,Group D,Hanover ,"FIFA World Cup Stadium, Hanover",Mexico,Angola,0.0,0.0,0.0,0.0
+48000.0,52491.234375,45427.333333333336,2006,Group D,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",Portugal,IR Iran,2.0,0.0,0.0,0.0
+45000.0,52491.234375,45675.916666666664,2006,Group E,Cologne ,"FIFA World Cup Stadium, Cologne",Czech Republic,Ghana,0.0,2.0,0.0,1.0
+46000.0,52491.234375,45675.916666666664,2006,Group E,Kaiserslautern ,Fritz-Walter-Stadion,Italy,USA,1.0,1.0,1.0,1.0
+41000.0,52491.234375,42840.875,2006,Group F,Nuremberg ,Franken-Stadion,Japan,Croatia,0.0,0.0,0.0,0.0
+66000.0,52491.234375,42840.875,2006,Group F,Munich ,"FIFA World Cup Stadium, Munich",Brazil,Australia,2.0,0.0,0.0,0.0
+43000.0,52491.234375,48533.166666666664,2006,Group G,Leipzig ,Zentralstadion,France,Korea Republic,1.0,1.0,1.0,0.0
+65000.0,52491.234375,48533.166666666664,2006,Group G,Dortmund ,"FIFA World Cup Stadium, Dortmund",Togo,Switzerland,0.0,2.0,0.0,1.0
+50000.0,52491.234375,46747.03333333333,2006,Group H,Hamburg ,"FIFA World Cup Stadium, Hamburg",Saudi Arabia,Ukraine,0.0,4.0,0.0,2.0
+52000.0,52491.234375,46747.03333333333,2006,Group H,Stuttgart ,Gottlieb-Daimler-Stadion,Spain,Tunisia,3.0,1.0,0.0,1.0
+72000.0,52491.234375,54321.35,2006,Group A,Berlin ,Olympiastadion,Ecuador,Germany,0.0,3.0,0.0,2.0
+43000.0,52491.234375,54321.35,2006,Group A,Hanover ,"FIFA World Cup Stadium, Hanover",Costa Rica,Poland,1.0,2.0,1.0,1.0
+45000.0,52491.234375,51367.86666666667,2006,Group B,Cologne ,"FIFA World Cup Stadium, Cologne",Sweden,England,2.0,2.0,0.0,1.0
+46000.0,52491.234375,51367.86666666667,2006,Group B,Kaiserslautern ,Fritz-Walter-Stadion,Paraguay,"rn"">Trinidad and Tobago",2.0,0.0,1.0,0.0
+38000.0,52491.234375,45427.333333333336,2006,Group D,Leipzig ,Zentralstadion,Iran,Angola,1.0,1.0,0.0,0.0
+52000.0,52491.234375,45427.333333333336,2006,Group D,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",Portugal,Mexico,2.0,1.0,2.0,1.0
+48000.0,52491.234375,45514.9375,2006,Group C,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",Netherlands,Argentina,0.0,0.0,0.0,0.0
+66000.0,52491.234375,45514.9375,2006,Group C,Munich ,"FIFA World Cup Stadium, Munich",C�te d'Ivoire,"rn"">Serbia and Montenegro",3.0,2.0,1.0,2.0
+50000.0,52491.234375,45675.916666666664,2006,Group E,Hamburg ,"FIFA World Cup Stadium, Hamburg",Czech Republic,Italy,0.0,2.0,0.0,1.0
+41000.0,52491.234375,45675.916666666664,2006,Group E,Nuremberg ,Franken-Stadion,Ghana,USA,2.0,1.0,2.0,1.0
+65000.0,52491.234375,42840.875,2006,Group F,Dortmund ,"FIFA World Cup Stadium, Dortmund",Japan,Brazil,1.0,4.0,1.0,1.0
+52000.0,52491.234375,42840.875,2006,Group F,Stuttgart ,Gottlieb-Daimler-Stadion,Croatia,Australia,2.0,2.0,1.0,1.0
+72000.0,52491.234375,46747.03333333333,2006,Group H,Berlin ,Olympiastadion,Ukraine,Tunisia,1.0,0.0,0.0,0.0
+46000.0,52491.234375,46747.03333333333,2006,Group H,Kaiserslautern ,Fritz-Walter-Stadion,Saudi Arabia,Spain,0.0,1.0,0.0,1.0
+45000.0,52491.234375,48533.166666666664,2006,Group G,Cologne ,"FIFA World Cup Stadium, Cologne",Togo,France,0.0,2.0,0.0,0.0
+43000.0,52491.234375,48533.166666666664,2006,Group G,Hanover ,"FIFA World Cup Stadium, Hanover",Switzerland,Korea Republic,2.0,0.0,1.0,0.0
+66000.0,52491.234375,52346.84285714286,2006,Round of 16,Munich ,"FIFA World Cup Stadium, Munich",Germany,Sweden,2.0,0.0,2.0,0.0
+43000.0,52491.234375,52346.84285714286,2006,Round of 16,Leipzig ,Zentralstadion,Argentina,Mexico,2.0,1.0,0.0,0.0
+52000.0,52491.234375,52346.84285714286,2006,Round of 16,Stuttgart ,Gottlieb-Daimler-Stadion,England,Ecuador,1.0,0.0,0.0,0.0
+41000.0,52491.234375,52346.84285714286,2006,Round of 16,Nuremberg ,Franken-Stadion,Portugal,Netherlands,1.0,0.0,1.0,0.0
+46000.0,52491.234375,52346.84285714286,2006,Round of 16,Kaiserslautern ,Fritz-Walter-Stadion,Italy,Australia,1.0,0.0,0.0,0.0
+45000.0,52491.234375,52346.84285714286,2006,Round of 16,Cologne ,"FIFA World Cup Stadium, Cologne",Switzerland,Ukraine,0.0,0.0,0.0,0.0
+65000.0,52491.234375,52346.84285714286,2006,Round of 16,Dortmund ,"FIFA World Cup Stadium, Dortmund",Brazil,Ghana,3.0,0.0,2.0,0.0
+43000.0,52491.234375,52346.84285714286,2006,Round of 16,Hanover ,"FIFA World Cup Stadium, Hanover",Spain,France,1.0,3.0,1.0,1.0
+72000.0,52491.234375,45697.48484848485,2006,Quarter-finals,Berlin ,Olympiastadion,Germany,Argentina,1.0,1.0,0.0,0.0
+50000.0,52491.234375,45697.48484848485,2006,Quarter-finals,Hamburg ,"FIFA World Cup Stadium, Hamburg",Italy,Ukraine,3.0,0.0,1.0,0.0
+52000.0,52491.234375,45697.48484848485,2006,Quarter-finals,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",England,Portugal,0.0,0.0,0.0,0.0
+48000.0,52491.234375,45697.48484848485,2006,Quarter-finals,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",Brazil,France,0.0,1.0,0.0,0.0
+65000.0,52491.234375,59053.333333333336,2006,Semi-finals,Dortmund ,"FIFA World Cup Stadium, Dortmund",Germany,Italy,0.0,2.0,0.0,0.0
+66000.0,52491.234375,59053.333333333336,2006,Semi-finals,Munich ,"FIFA World Cup Stadium, Munich",Portugal,France,0.0,1.0,0.0,1.0
+52000.0,52491.234375,57741.5,2006,Third place,Stuttgart ,Gottlieb-Daimler-Stadion,Germany,Portugal,3.0,1.0,0.0,0.0
+69000.0,52491.234375,76383.65,2006,Final,Berlin ,Olympiastadion,Italy,France,1.0,1.0,0.0,0.0
+84490.0,49669.625,54321.35,2010,Group A,Johannesburg ,Soccer City Stadium,South Africa,Mexico,1.0,1.0,0.0,0.0
+64100.0,49669.625,54321.35,2010,Group A,Cape Town ,Cape Town Stadium,Uruguay,France,0.0,0.0,0.0,0.0
+31513.0,49669.625,51367.86666666667,2010,Group B,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,Korea Republic,Greece,2.0,0.0,1.0,0.0
+55686.0,49669.625,51367.86666666667,2010,Group B,Johannesburg ,Ellis Park Stadium,Argentina,Nigeria,1.0,0.0,1.0,0.0
+38646.0,49669.625,45514.9375,2010,Group C,Phokeng ,Royal Bafokeng Sports Palace,England,USA,1.0,1.0,1.0,1.0
+30325.0,49669.625,45514.9375,2010,Group C,Polokwane ,Peter Mokaba Stadium,Algeria,Slovenia,0.0,1.0,0.0,0.0
+38833.0,49669.625,45427.333333333336,2010,Group D,Tshwane/Pretoria ,Loftus Versfeld Stadium,Serbia,Ghana,0.0,1.0,0.0,0.0
+62660.0,49669.625,45427.333333333336,2010,Group D,Durban ,Durban Stadium,Germany,Australia,4.0,0.0,2.0,0.0
+83465.0,49669.625,45675.916666666664,2010,Group E,Johannesburg ,Soccer City Stadium,Netherlands,Denmark,2.0,0.0,0.0,0.0
+30620.0,49669.625,45675.916666666664,2010,Group E,Mangaung/Bloemfontein ,Free State Stadium,Japan,Cameroon,1.0,0.0,1.0,0.0
+62869.0,49669.625,42840.875,2010,Group F,Cape Town ,Cape Town Stadium,Italy,Paraguay,1.0,1.0,0.0,1.0
+23871.0,49669.625,42840.875,2010,Group F,Phokeng ,Royal Bafokeng Sports Palace,New Zealand,Slovakia,1.0,1.0,0.0,0.0
+37034.0,49669.625,48533.166666666664,2010,Group G,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,C�te d'Ivoire,Portugal,0.0,0.0,0.0,0.0
+54331.0,49669.625,48533.166666666664,2010,Group G,Johannesburg ,Ellis Park Stadium,Brazil,Korea DPR,2.0,1.0,0.0,0.0
+32664.0,49669.625,46747.03333333333,2010,Group H,Nelspruit ,Mbombela Stadium,Honduras,Chile,0.0,1.0,0.0,1.0
+62453.0,49669.625,46747.03333333333,2010,Group H,Durban ,Durban Stadium,Spain,Switzerland,0.0,1.0,0.0,0.0
+42658.0,49669.625,54321.35,2010,Group A,Tshwane/Pretoria ,Loftus Versfeld Stadium,South Africa,Uruguay,0.0,3.0,0.0,1.0
+82174.0,49669.625,51367.86666666667,2010,Group B,Johannesburg ,Soccer City Stadium,Argentina,Korea Republic,4.0,1.0,2.0,1.0
+31593.0,49669.625,51367.86666666667,2010,Group B,Mangaung/Bloemfontein ,Free State Stadium,Greece,Nigeria,2.0,1.0,1.0,1.0
+35370.0,49669.625,54321.35,2010,Group A,Polokwane ,Peter Mokaba Stadium,France,Mexico,0.0,2.0,0.0,0.0
+38294.0,49669.625,45427.333333333336,2010,Group D,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,Germany,Serbia,0.0,1.0,0.0,1.0
+45573.0,49669.625,45514.9375,2010,Group C,Johannesburg ,Ellis Park Stadium,Slovenia,USA,2.0,2.0,2.0,0.0
+64100.0,49669.625,45514.9375,2010,Group C,Cape Town ,Cape Town Stadium,England,Algeria,0.0,0.0,0.0,0.0
+62010.0,49669.625,45675.916666666664,2010,Group E,Durban ,Durban Stadium,Netherlands,Japan,1.0,0.0,0.0,0.0
+34812.0,49669.625,45427.333333333336,2010,Group D,Phokeng ,Royal Bafokeng Sports Palace,Ghana,Australia,1.0,1.0,1.0,1.0
+38074.0,49669.625,45675.916666666664,2010,Group E,Tshwane/Pretoria ,Loftus Versfeld Stadium,Cameroon,Denmark,1.0,2.0,1.0,1.0
+26643.0,49669.625,42840.875,2010,Group F,Mangaung/Bloemfontein ,Free State Stadium,Slovakia,Paraguay,0.0,2.0,0.0,1.0
+38229.0,49669.625,42840.875,2010,Group F,Nelspruit ,Mbombela Stadium,Italy,New Zealand,1.0,1.0,1.0,1.0
+84455.0,49669.625,48533.166666666664,2010,Group G,Johannesburg ,Soccer City Stadium,Brazil,C�te d'Ivoire,3.0,1.0,1.0,0.0
+63644.0,49669.625,48533.166666666664,2010,Group G,Cape Town ,Cape Town Stadium,Portugal,Korea DPR,7.0,0.0,1.0,0.0
+34872.0,49669.625,46747.03333333333,2010,Group H,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,Chile,Switzerland,1.0,0.0,0.0,0.0
+54386.0,49669.625,46747.03333333333,2010,Group H,Johannesburg ,Ellis Park Stadium,Spain,Honduras,2.0,0.0,1.0,0.0
+33425.0,49669.625,54321.35,2010,Group A,Phokeng ,Royal Bafokeng Sports Palace,Mexico,Uruguay,0.0,1.0,0.0,1.0
+39415.0,49669.625,54321.35,2010,Group A,Mangaung/Bloemfontein ,Free State Stadium,France,South Africa,1.0,2.0,0.0,2.0
+61874.0,49669.625,51367.86666666667,2010,Group B,Durban ,Durban Stadium,Nigeria,Korea Republic,2.0,2.0,1.0,1.0
+38891.0,49669.625,51367.86666666667,2010,Group B,Polokwane ,Peter Mokaba Stadium,Greece,Argentina,0.0,2.0,0.0,0.0
+36893.0,49669.625,45514.9375,2010,Group C,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,Slovenia,England,0.0,1.0,0.0,1.0
+35827.0,49669.625,45514.9375,2010,Group C,Tshwane/Pretoria ,Loftus Versfeld Stadium,USA,Algeria,1.0,0.0,0.0,0.0
+83391.0,49669.625,45427.333333333336,2010,Group D,Johannesburg ,Soccer City Stadium,Ghana,Germany,0.0,1.0,0.0,0.0
+37836.0,49669.625,45427.333333333336,2010,Group D,Nelspruit ,Mbombela Stadium,Australia,Serbia,2.0,1.0,0.0,0.0
+53412.0,49669.625,42840.875,2010,Group F,Johannesburg ,Ellis Park Stadium,Slovakia,Italy,3.0,2.0,1.0,0.0
+34850.0,49669.625,42840.875,2010,Group F,Polokwane ,Peter Mokaba Stadium,Paraguay,New Zealand,0.0,0.0,0.0,0.0
+27967.0,49669.625,45675.916666666664,2010,Group E,Phokeng ,Royal Bafokeng Sports Palace,Denmark,Japan,1.0,3.0,0.0,2.0
+63093.0,49669.625,45675.916666666664,2010,Group E,Cape Town ,Cape Town Stadium,Cameroon,Netherlands,1.0,2.0,0.0,1.0
+62712.0,49669.625,48533.166666666664,2010,Group G,Durban ,Durban Stadium,Portugal,Brazil,0.0,0.0,0.0,0.0
+34763.0,49669.625,48533.166666666664,2010,Group G,Nelspruit ,Mbombela Stadium,Korea DPR,C�te d'Ivoire,0.0,3.0,0.0,2.0
+41958.0,49669.625,46747.03333333333,2010,Group H,Tshwane/Pretoria ,Loftus Versfeld Stadium,Chile,Spain,1.0,2.0,0.0,2.0
+28042.0,49669.625,46747.03333333333,2010,Group H,Mangaung/Bloemfontein ,Free State Stadium,Switzerland,Honduras,0.0,0.0,0.0,0.0
+30597.0,49669.625,52346.84285714286,2010,Round of 16,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,Uruguay,Korea Republic,2.0,1.0,1.0,0.0
+34976.0,49669.625,52346.84285714286,2010,Round of 16,Phokeng ,Royal Bafokeng Sports Palace,USA,Ghana,1.0,2.0,0.0,0.0
+40510.0,49669.625,52346.84285714286,2010,Round of 16,Mangaung/Bloemfontein ,Free State Stadium,Germany,England,4.0,1.0,2.0,1.0
+84377.0,49669.625,52346.84285714286,2010,Round of 16,Johannesburg ,Soccer City Stadium,Argentina,Mexico,3.0,1.0,2.0,0.0
+61962.0,49669.625,52346.84285714286,2010,Round of 16,Durban ,Durban Stadium,Netherlands,Slovakia,2.0,1.0,1.0,0.0
+54096.0,49669.625,52346.84285714286,2010,Round of 16,Johannesburg ,Ellis Park Stadium,Brazil,Chile,3.0,0.0,2.0,0.0
+36742.0,49669.625,52346.84285714286,2010,Round of 16,Tshwane/Pretoria ,Loftus Versfeld Stadium,Paraguay,Japan,0.0,0.0,0.0,0.0
+62955.0,49669.625,52346.84285714286,2010,Round of 16,Cape Town ,Cape Town Stadium,Spain,Portugal,1.0,0.0,0.0,0.0
+40186.0,49669.625,45697.48484848485,2010,Quarter-finals,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,Netherlands,Brazil,2.0,1.0,0.0,1.0
+84017.0,49669.625,45697.48484848485,2010,Quarter-finals,Johannesburg ,Soccer City Stadium,Uruguay,Ghana,1.0,1.0,0.0,0.0
+64100.0,49669.625,45697.48484848485,2010,Quarter-finals,Cape Town ,Cape Town Stadium,Argentina,Germany,0.0,4.0,0.0,1.0
+55359.0,49669.625,45697.48484848485,2010,Quarter-finals,Johannesburg ,Ellis Park Stadium,Paraguay,Spain,0.0,1.0,0.0,0.0
+62479.0,49669.625,59053.333333333336,2010,Semi-finals,Cape Town ,Cape Town Stadium,Uruguay,Netherlands,2.0,3.0,1.0,1.0
+60960.0,49669.625,59053.333333333336,2010,Semi-finals,Durban ,Durban Stadium,Germany,Spain,0.0,1.0,0.0,0.0
+36254.0,49669.625,50847.86666666667,2010,Match for third place,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,Uruguay,Germany,2.0,3.0,1.0,1.0
+84490.0,49669.625,76383.65,2010,Final,Johannesburg ,Soccer City Stadium,Netherlands,Spain,0.0,1.0,0.0,0.0
+62103.0,55374.91025641026,54321.35,2014,Group A,Sao Paulo ,Arena de Sao Paulo,Brazil,Croatia,3.0,1.0,1.0,1.0
+39216.0,55374.91025641026,54321.35,2014,Group A,Natal ,Estadio das Dunas,Mexico,Cameroon,1.0,0.0,0.0,0.0
+48173.0,55374.91025641026,51367.86666666667,2014,Group B,Salvador ,Arena Fonte Nova,Spain,Netherlands,1.0,5.0,1.0,1.0
+40275.0,55374.91025641026,51367.86666666667,2014,Group B,Cuiaba ,Arena Pantanal,Chile,Australia,3.0,1.0,2.0,1.0
+57174.0,55374.91025641026,45514.9375,2014,Group C,Belo Horizonte ,Estadio Mineirao,Colombia,Greece,3.0,0.0,1.0,0.0
+58679.0,55374.91025641026,45427.333333333336,2014,Group D,Fortaleza ,Estadio Castelao,Uruguay,Costa Rica,1.0,3.0,1.0,0.0
+39800.0,55374.91025641026,45427.333333333336,2014,Group D,Manaus ,Arena Amazonia,England,Italy,1.0,2.0,1.0,1.0
+40267.0,55374.91025641026,45514.9375,2014,Group C,Recife ,Arena Pernambuco,C�te d'Ivoire,Japan,2.0,1.0,0.0,1.0
+68351.0,55374.91025641026,45675.916666666664,2014,Group E,Brasilia ,Estadio Nacional,Switzerland,Ecuador,2.0,1.0,0.0,1.0
+43012.0,55374.91025641026,45675.916666666664,2014,Group E,Porto Alegre ,Estadio Beira-Rio,France,Honduras,3.0,0.0,1.0,0.0
+74738.0,55374.91025641026,42840.875,2014,Group F,Rio De Janeiro ,Estadio do Maracana,Argentina,"rn"">Bosnia and Herzegovina",2.0,1.0,1.0,0.0
+51081.0,55374.91025641026,48533.166666666664,2014,Group G,Salvador ,Arena Fonte Nova,Germany,Portugal,4.0,0.0,3.0,0.0
+39081.0,55374.91025641026,42840.875,2014,Group F,Curitiba ,Arena da Baixada,IR Iran,Nigeria,0.0,0.0,0.0,0.0
+39760.0,55374.91025641026,48533.166666666664,2014,Group G,Natal ,Estadio das Dunas,Ghana,USA,1.0,2.0,0.0,1.0
+56800.0,55374.91025641026,46747.03333333333,2014,Group H,Belo Horizonte ,Estadio Mineirao,Belgium,Algeria,2.0,1.0,0.0,1.0
+60342.0,55374.91025641026,54321.35,2014,Group A,Fortaleza ,Estadio Castelao,Brazil,Mexico,0.0,0.0,0.0,0.0
+37603.0,55374.91025641026,46747.03333333333,2014,Group H,Cuiaba ,Arena Pantanal,Russia,Korea Republic,1.0,1.0,0.0,0.0
+42877.0,55374.91025641026,51367.86666666667,2014,Group B,Porto Alegre ,Estadio Beira-Rio,Australia,Netherlands,2.0,3.0,1.0,1.0
+74101.0,55374.91025641026,51367.86666666667,2014,Group B,Rio De Janeiro ,Estadio do Maracana,Spain,Chile,0.0,2.0,0.0,2.0
+39982.0,55374.91025641026,54321.35,2014,Group A,Manaus ,Arena Amazonia,Cameroon,Croatia,0.0,4.0,0.0,1.0
+68748.0,55374.91025641026,45514.9375,2014,Group C,Brasilia ,Estadio Nacional,Colombia,C�te d'Ivoire,2.0,1.0,0.0,0.0
+62575.0,55374.91025641026,45427.333333333336,2014,Group D,Sao Paulo ,Arena de Sao Paulo,Uruguay,England,2.0,1.0,1.0,0.0
+39485.0,55374.91025641026,45514.9375,2014,Group C,Natal ,Estadio das Dunas,Japan,Greece,0.0,0.0,0.0,0.0
+40285.0,55374.91025641026,45427.333333333336,2014,Group D,Recife ,Arena Pernambuco,Italy,Costa Rica,0.0,1.0,0.0,1.0
+51003.0,55374.91025641026,45675.916666666664,2014,Group E,Salvador ,Arena Fonte Nova,Switzerland,France,2.0,5.0,0.0,3.0
+39224.0,55374.91025641026,45675.916666666664,2014,Group E,Curitiba ,Arena da Baixada,Honduras,Ecuador,1.0,2.0,1.0,1.0
+57698.0,55374.91025641026,42840.875,2014,Group F,Belo Horizonte ,Estadio Mineirao,Argentina,IR Iran,1.0,0.0,0.0,0.0
+59621.0,55374.91025641026,48533.166666666664,2014,Group G,Fortaleza ,Estadio Castelao,Germany,Ghana,2.0,2.0,0.0,0.0
+40499.0,55374.91025641026,42840.875,2014,Group F,Cuiaba ,Arena Pantanal,Nigeria,"rn"">Bosnia and Herzegovina",1.0,0.0,1.0,0.0
+73819.0,55374.91025641026,46747.03333333333,2014,Group H,Rio De Janeiro ,Estadio do Maracana,Belgium,Russia,1.0,0.0,0.0,0.0
+42732.0,55374.91025641026,46747.03333333333,2014,Group H,Porto Alegre ,Estadio Beira-Rio,Korea Republic,Algeria,2.0,4.0,0.0,3.0
+40123.0,55374.91025641026,48533.166666666664,2014,Group G,Manaus ,Arena Amazonia,USA,Portugal,2.0,2.0,0.0,1.0
+39375.0,55374.91025641026,51367.86666666667,2014,Group B,Curitiba ,Arena da Baixada,Australia,Spain,0.0,3.0,0.0,1.0
+62996.0,55374.91025641026,51367.86666666667,2014,Group B,Sao Paulo ,Arena de Sao Paulo,Netherlands,Chile,2.0,0.0,0.0,0.0
+69112.0,55374.91025641026,54321.35,2014,Group A,Brasilia ,Estadio Nacional,Cameroon,Brazil,1.0,4.0,1.0,2.0
+41212.0,55374.91025641026,54321.35,2014,Group A,Recife ,Arena Pernambuco,Croatia,Mexico,1.0,3.0,0.0,0.0
+39706.0,55374.91025641026,45427.333333333336,2014,Group D,Natal ,Estadio das Dunas,Italy,Uruguay,0.0,1.0,0.0,0.0
+57823.0,55374.91025641026,45427.333333333336,2014,Group D,Belo Horizonte ,Estadio Mineirao,Costa Rica,England,0.0,0.0,0.0,0.0
+40340.0,55374.91025641026,45514.9375,2014,Group C,Cuiaba ,Arena Pantanal,Japan,Colombia,1.0,4.0,1.0,1.0
+59095.0,55374.91025641026,45514.9375,2014,Group C,Fortaleza ,Estadio Castelao,Greece,C�te d'Ivoire,2.0,1.0,1.0,0.0
+43285.0,55374.91025641026,42840.875,2014,Group F,Porto Alegre ,Estadio Beira-Rio,Nigeria,Argentina,2.0,3.0,1.0,2.0
+48011.0,55374.91025641026,42840.875,2014,Group F,Salvador ,Arena Fonte Nova,"rn"">Bosnia and Herzegovina",IR Iran,3.0,1.0,1.0,0.0
+40322.0,55374.91025641026,45675.916666666664,2014,Group E,Manaus ,Arena Amazonia,Honduras,Switzerland,0.0,3.0,0.0,2.0
+73749.0,55374.91025641026,45675.916666666664,2014,Group E,Rio De Janeiro ,Estadio do Maracana,Ecuador,France,0.0,0.0,0.0,0.0
+41876.0,55374.91025641026,48533.166666666664,2014,Group G,Recife ,Arena Pernambuco,USA,Germany,0.0,1.0,0.0,0.0
+67540.0,55374.91025641026,48533.166666666664,2014,Group G,Brasilia ,Estadio Nacional,Portugal,Ghana,2.0,1.0,1.0,0.0
+61397.0,55374.91025641026,46747.03333333333,2014,Group H,Sao Paulo ,Arena de Sao Paulo,Korea Republic,Belgium,0.0,1.0,0.0,0.0
+39311.0,55374.91025641026,46747.03333333333,2014,Group H,Curitiba ,Arena da Baixada,Algeria,Russia,1.0,1.0,0.0,1.0
+57714.0,55374.91025641026,52346.84285714286,2014,Round of 16,Belo Horizonte ,Estadio Mineirao,Brazil,Chile,1.0,1.0,0.0,0.0
+73804.0,55374.91025641026,52346.84285714286,2014,Round of 16,Rio De Janeiro ,Estadio do Maracana,Colombia,Uruguay,2.0,0.0,1.0,0.0
+67882.0,55374.91025641026,52346.84285714286,2014,Round of 16,Brasilia ,Estadio Nacional,France,Nigeria,2.0,0.0,0.0,0.0
+60342.0,55374.91025641026,45697.48484848485,2014,Quarter-finals,Fortaleza ,Estadio Castelao,Brazil,Colombia,2.0,1.0,1.0,0.0
+74240.0,55374.91025641026,45697.48484848485,2014,Quarter-finals,Rio De Janeiro ,Estadio do Maracana,France,Germany,0.0,1.0,0.0,1.0
+58141.0,55374.91025641026,59053.333333333336,2014,Semi-finals,Belo Horizonte ,Estadio Mineirao,Brazil,Germany,1.0,7.0,0.0,5.0
+68034.0,55374.91025641026,68034.0,2014,Play-off for third place,Brasilia ,Estadio Nacional,Brazil,Netherlands,0.0,3.0,0.0,2.0
+74738.0,55374.91025641026,76383.65,2014,Final,Rio De Janeiro ,Estadio do Maracana,Germany,Argentina,1.0,0.0,0.0,0.0
+63267.0,55374.91025641026,59053.333333333336,2014,Semi-finals,Sao Paulo ,Arena de Sao Paulo,Netherlands,Argentina,0.0,0.0,0.0,0.0
+51179.0,55374.91025641026,45697.48484848485,2014,Quarter-finals,Salvador ,Arena Fonte Nova,Netherlands,Costa Rica,0.0,0.0,0.0,0.0
+68551.0,55374.91025641026,45697.48484848485,2014,Quarter-finals,Brasilia ,Estadio Nacional,Argentina,Belgium,1.0,0.0,1.0,0.0
+58817.0,55374.91025641026,52346.84285714286,2014,Round of 16,Fortaleza ,Estadio Castelao,Netherlands,Mexico,2.0,1.0,0.0,0.0
+41242.0,55374.91025641026,52346.84285714286,2014,Round of 16,Recife ,Arena Pernambuco,Costa Rica,Greece,1.0,1.0,0.0,0.0
+63255.0,55374.91025641026,52346.84285714286,2014,Round of 16,Sao Paulo ,Arena de Sao Paulo,Argentina,Switzerland,1.0,0.0,0.0,0.0
+51227.0,55374.91025641026,52346.84285714286,2014,Round of 16,Salvador ,Arena Fonte Nova,Belgium,USA,2.0,1.0,0.0,0.0
+57714.0,55374.91025641026,52346.84285714286,2014,Round of 16,Belo Horizonte ,Estadio Mineirao,Brazil,Chile,1.0,1.0,0.0,0.0
+73804.0,55374.91025641026,52346.84285714286,2014,Round of 16,Rio De Janeiro ,Estadio do Maracana,Colombia,Uruguay,2.0,0.0,1.0,0.0
+58817.0,55374.91025641026,52346.84285714286,2014,Round of 16,Fortaleza ,Estadio Castelao,Netherlands,Mexico,2.0,1.0,0.0,0.0
+41242.0,55374.91025641026,52346.84285714286,2014,Round of 16,Recife ,Arena Pernambuco,Costa Rica,Greece,1.0,1.0,0.0,0.0
+67882.0,55374.91025641026,52346.84285714286,2014,Round of 16,Brasilia ,Estadio Nacional,France,Nigeria,2.0,0.0,0.0,0.0
+63255.0,55374.91025641026,52346.84285714286,2014,Round of 16,Sao Paulo ,Arena de Sao Paulo,Argentina,Switzerland,1.0,0.0,0.0,0.0
+51227.0,55374.91025641026,52346.84285714286,2014,Round of 16,Salvador ,Arena Fonte Nova,Belgium,USA,2.0,1.0,0.0,0.0
+74240.0,55374.91025641026,45697.48484848485,2014,Quarter-finals,Rio De Janeiro ,Estadio do Maracana,France,Germany,0.0,1.0,0.0,1.0
+60342.0,55374.91025641026,45697.48484848485,2014,Quarter-finals,Fortaleza ,Estadio Castelao,Brazil,Colombia,2.0,1.0,1.0,0.0
+68551.0,55374.91025641026,45697.48484848485,2014,Quarter-finals,Brasilia ,Estadio Nacional,Argentina,Belgium,1.0,0.0,1.0,0.0
+51179.0,55374.91025641026,45697.48484848485,2014,Quarter-finals,Salvador ,Arena Fonte Nova,Netherlands,Costa Rica,0.0,0.0,0.0,0.0
+58141.0,55374.91025641026,59053.333333333336,2014,Semi-finals,Belo Horizonte ,Estadio Mineirao,Brazil,Germany,1.0,7.0,0.0,5.0
+63267.0,55374.91025641026,59053.333333333336,2014,Semi-finals,Sao Paulo ,Arena de Sao Paulo,Netherlands,Argentina,0.0,0.0,0.0,0.0
+68034.0,55374.91025641026,68034.0,2014,Play-off for third place,Brasilia ,Estadio Nacional,Brazil,Netherlands,0.0,3.0,0.0,2.0
+74738.0,55374.91025641026,76383.65,2014,Final,Rio De Janeiro ,Estadio do Maracana,Germany,Argentina,1.0,0.0,0.0,0.0
