@@ -1,0 +1,44 @@
+Attendance,AvgAttendanceByYear,AvgAttendanceByStage,Year,Stage,City,Stadium,Home Team Name,Away Team Name,Home Team Goals,Away Team Goals,Half-time Home Goals,Half-time Away Goals,Total_Goals,Decada,outlier_iqr,Attendance_Quartile,outlier_dbscan_log,outlier_dbscan,outlier_any_method,outlier_any_dbscan,Region
+4444.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Pocitos,France,Mexico,4.0,1.0,3.0,0.0,5.0,1930,False,Q1 (Bajo),True,False,True,True,Otros
+2549.0,32808.27777777778,34271.41071428572,1930,Group 3,Montevideo ,Pocitos,Romania,Peru,3.0,1.0,1.0,0.0,4.0,1930,False,Q1 (Bajo),True,False,True,True,Otros
+2000.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Estadio Centenario,Chile,France,1.0,0.0,0.0,0.0,1.0,1930,False,Q1 (Bajo),True,False,True,True,Otros
+42100.0,32808.27777777778,41664.06451612903,1930,Group 1,Montevideo ,Estadio Centenario,Argentina,Mexico,6.0,3.0,3.0,1.0,9.0,1930,False,Q3 (Medio-Alto),True,True,True,True,Otros
+79867.0,32808.27777777778,59053.333333333336,1930,Semi-finals,Montevideo ,Estadio Centenario,Uruguay,Yugoslavia,6.0,1.0,3.0,1.0,7.0,1930,False,Q4 (Alto),True,True,True,True,Otros
+68346.0,32808.27777777778,76383.65,1930,Final,Montevideo ,Estadio Centenario,Uruguay,Argentina,4.0,2.0,1.0,2.0,6.0,1930,False,Q4 (Alto),True,True,True,True,Otros
+9000.0,20872.222222222223,16120.333333333334,1938,First round,Reims ,Velodrome Municipale,Hungary,Dutch East Indies,6.0,0.0,4.0,0.0,6.0,1930,False,Q1 (Bajo),True,True,True,True,Otros
+7000.0,20872.222222222223,16120.333333333334,1938,First round,Toulouse ,Stade Municipal,Cuba,Romania,3.0,3.0,0.0,0.0,6.0,1930,False,Q1 (Bajo),True,False,True,True,Otros
+13452.0,20872.222222222223,16120.333333333334,1938,First round,Strasbourg ,Stade de la Meinau,Brazil,Poland,6.0,5.0,0.0,0.0,11.0,1930,False,Q1 (Bajo),True,True,True,True,Otros
+7000.0,20872.222222222223,45697.48484848485,1938,Quarter-finals,Antibes ,Fort Carree,Sweden,Cuba,8.0,0.0,4.0,0.0,8.0,1930,False,Q1 (Bajo),True,True,True,True,Otros
+5284.0,47511.181818181816,25915.745454545453,1950,Group 4,Belo Horizonte ,Independencia,Uruguay,Bolivia,8.0,0.0,4.0,0.0,8.0,1950,False,Q1 (Bajo),True,True,True,True,Otros
+3580.0,47511.181818181816,41664.06451612903,1950,Group 1,Porto Alegre ,Eucaliptos,Switzerland,Mexico,2.0,1.0,2.0,0.0,3.0,1950,False,Q1 (Bajo),True,False,True,True,Otros
+8501.0,47511.181818181816,34241.76271186441,1950,Group 2,Recife ,Ilha do Retiro,Chile,USA,5.0,2.0,2.0,0.0,7.0,1950,False,Q1 (Bajo),True,False,True,True,Otros
+13470.0,29561.80769230769,41664.06451612903,1954,Group 1,Geneva ,Charmilles,Brazil,Mexico,5.0,0.0,4.0,0.0,5.0,1950,False,Q1 (Bajo),True,False,True,True,Otros
+13000.0,29561.80769230769,34241.76271186441,1954,Group 2,Zurich ,Hardturm,Hungary,Korea Republic,9.0,0.0,4.0,0.0,9.0,1950,False,Q1 (Bajo),True,True,True,True,Otros
+14000.0,29561.80769230769,25915.745454545453,1954,Group 4,Basel ,St. Jakob,England,Belgium,4.0,4.0,0.0,0.0,8.0,1950,False,Q1 (Bajo),True,True,True,True,Otros
+56000.0,29561.80769230769,34241.76271186441,1954,Group 2,Basel ,St. Jakob,Hungary,Germany FR,8.0,3.0,3.0,1.0,11.0,1950,False,Q3 (Medio-Alto),True,True,True,True,Otros
+4000.0,29561.80769230769,34241.76271186441,1954,Group 2,Geneva ,Charmilles,Turkey,Korea Republic,7.0,0.0,4.0,0.0,7.0,1950,False,Q1 (Bajo),True,True,True,True,Otros
+17000.0,29561.80769230769,34241.76271186441,1954,Group 2,Zurich ,Hardturm,Germany FR,Turkey,7.0,2.0,3.0,1.0,9.0,1950,False,Q1 (Bajo),True,True,True,True,Otros
+35000.0,29561.80769230769,45697.48484848485,1954,Quarter-finals,Lausanne ,La Pontaise,Austria,Switzerland,7.0,5.0,5.0,4.0,12.0,1950,False,Q2 (Medio-Bajo),True,True,True,True,Otros
+62500.0,29561.80769230769,76383.65,1954,Final,Berne ,Wankdorf Stadium,Germany FR,Hungary,3.0,2.0,2.0,2.0,5.0,1950,False,Q4 (Alto),True,False,True,True,Otros
+16518.0,23423.14285714286,34241.76271186441,1958,Group 2,Norrk�Ping ,Idrottsparken,France,Paraguay,7.0,3.0,2.0,2.0,10.0,1950,False,Q1 (Bajo),True,True,True,True,Otros
+2823.0,23423.14285714286,34271.41071428572,1958,Group 3,Solna ,Rasunda Stadium,Wales,Hungary,2.0,1.0,0.0,1.0,3.0,1950,False,Q1 (Bajo),True,False,True,True,Otros
+32483.0,23423.14285714286,50847.86666666667,1958,Match for third place,Gothenburg ,Nya Ullevi,France,Germany FR,6.0,3.0,3.0,1.0,9.0,1950,False,Q2 (Medio-Bajo),True,True,True,True,Otros
+8040.0,27911.625,41664.06451612903,1962,Group 1,Arica ,Carlos Dittborn,Soviet Union,Colombia,4.0,4.0,3.0,1.0,8.0,1960,False,Q1 (Bajo),True,True,True,True,Otros
+7442.0,27911.625,25915.745454545453,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,Hungary,Bulgaria,6.0,1.0,4.0,0.0,7.0,1960,False,Q1 (Bajo),True,False,True,True,Otros
+7167.0,27911.625,41664.06451612903,1962,Group 1,Arica ,Carlos Dittborn,Yugoslavia,Colombia,5.0,0.0,2.0,0.0,5.0,1960,False,Q1 (Bajo),True,False,True,True,Otros
+40248.0,48847.96875,45697.48484848485,1966,Quarter-finals,Liverpool ,Goodison Park,Portugal,Korea DPR,5.0,3.0,2.0,3.0,8.0,1960,False,Q2 (Medio-Bajo),True,True,True,True,Otros
+31700.0,49098.76315789474,34241.76271186441,1974,Group 2,Gelsenkirchen ,Parkstadion,Yugoslavia,Zaire,9.0,0.0,6.0,0.0,9.0,1970,False,Q2 (Medio-Bajo),True,True,True,True,Otros
+25300.0,49098.76315789474,25915.745454545453,1974,Group 4,Munich ,Olympiastadion,Haiti,Poland,0.0,7.0,0.0,5.0,7.0,1970,False,Q1 (Bajo),True,True,True,True,Otros
+23000.0,40571.596153846156,34271.41071428572,1982,Group 3,Elche ,Nuevo Estadio,Hungary,El Salvador,10.0,1.0,3.0,0.0,11.0,1980,False,Q1 (Bajo),True,True,True,True,Otros
+16500.0,46039.057692307695,45514.9375,1986,Group C,Irapuato ,Estadio Irapuato,Soviet Union,Hungary,6.0,0.0,3.0,0.0,6.0,1980,False,Q1 (Bajo),True,False,True,True,Otros
+32277.0,46039.057692307695,52346.84285714286,1986,Round of 16,Leon ,Nou Camp - Estadio Le�n,Soviet Union,Belgium,3.0,4.0,0.0,0.0,7.0,1980,False,Q2 (Medio-Bajo),True,True,True,True,Otros
+91500.0,68991.11538461539,50847.86666666667,1994,Match for third place,Los Angeles ,Rose Bowl,Sweden,Bulgaria,4.0,0.0,4.0,0.0,4.0,1990,False,Q4 (Alto),True,True,True,True,Otros
+33681.0,42268.703125,54321.35,2002,Group A,Suwon ,Suwon World Cup Stadium,Senegal,Uruguay,3.0,3.0,3.0,0.0,6.0,2000,False,Q2 (Medio-Bajo),True,False,True,True,Otros
+38524.0,42268.703125,45514.9375,2002,Group C,Suwon ,Suwon World Cup Stadium,Costa Rica,Brazil,2.0,5.0,1.0,3.0,7.0,2000,False,Q2 (Medio-Bajo),True,True,True,True,Otros
+40582.0,42268.703125,52346.84285714286,2002,Round of 16,Niigata ,Niigata Stadium Big Swan,Denmark,England,0.0,3.0,0.0,3.0,3.0,2000,False,Q2 (Medio-Bajo),True,False,True,True,Otros
+63483.0,42268.703125,57741.5,2002,Third place,Daegu ,Daegu World Cup Stadium,Korea Republic,Turkey,2.0,3.0,1.0,3.0,5.0,2000,False,Q4 (Alto),True,True,True,True,Otros
+63644.0,49669.625,48533.166666666664,2010,Group G,Cape Town ,Cape Town Stadium,Portugal,Korea DPR,7.0,0.0,1.0,0.0,7.0,2010,False,Q4 (Alto),True,False,True,True,Otros
+51003.0,55374.91025641026,45675.916666666664,2014,Group E,Salvador ,Arena Fonte Nova,Switzerland,France,2.0,5.0,0.0,3.0,7.0,2010,False,Q3 (Medio-Alto),True,True,True,True,Otros
+42732.0,55374.91025641026,46747.03333333333,2014,Group H,Porto Alegre ,Estadio Beira-Rio,Korea Republic,Algeria,2.0,4.0,0.0,3.0,6.0,2010,False,Q3 (Medio-Alto),True,True,True,True,Otros
+58141.0,55374.91025641026,59053.333333333336,2014,Semi-finals,Belo Horizonte ,Estadio Mineirao,Brazil,Germany,1.0,7.0,0.0,5.0,8.0,2010,False,Q3 (Medio-Alto),True,True,True,True,Otros
+58141.0,55374.91025641026,59053.333333333336,2014,Semi-finals,Belo Horizonte ,Estadio Mineirao,Brazil,Germany,1.0,7.0,0.0,5.0,8.0,2010,False,Q3 (Medio-Alto),True,True,True,True,Otros
